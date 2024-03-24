@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.joyn</defaultID>
+		<label>Joyn</label>
+		<label2>Video-Addon</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.joyn",return)</action>
+		</shortcut>
+	</shortcuts>

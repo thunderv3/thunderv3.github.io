@@ -1,0 +1,75 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>repo.Michaz</name>
+            <path pathversion="1">https://michaz1988.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+	    <source>
+            <name>repoThunderv3</name>
+            <path pathversion="1">https://thunderv3.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>disney.plus</name>
+            <path pathversion="1">special://home/userdata/addon_data/slyguy.disney.plus/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Disney Account</name>
+            <path pathversion="1">https://kodibuilds.de/dis/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>paramount account</name>
+            <path pathversion="1">http://kodibuilds.de/para/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Paramount.plus</name>
+            <path pathversion="1">special://home/userdata/addon_data/slyguy.paramount.plus/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>repository.peno64</name>
+            <path pathversion="1">https://peno64.github.io/repository.peno64/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>repo.slyguy</name>
+            <path pathversion="1">https://slyguy.uk/.repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>xbmc</name>
+            <path pathversion="1">special://xbmc/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>xhome</name>
+            <path pathversion="1">special://home/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>xDownload</name>
+            <path pathversion="1">/storage/emulated/0/Download/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

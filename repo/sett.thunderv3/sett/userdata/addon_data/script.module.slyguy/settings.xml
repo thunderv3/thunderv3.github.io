@@ -1,0 +1,38 @@
+<settings version="2">
+    <setting id="donor_id" default="true" />
+    <setting id="show_news">true</setting>
+    <setting id="fast_updates">true</setting>
+    <setting id="menu_view_shows_seasons" default="true">false</setting>
+    <setting id="video_view_media" default="true">false</setting>
+    <setting id="video_view_menus" default="true">false</setting>
+    <setting id="ignore_display_resolution">true</setting>
+    <setting id="skip_next_channel">true</setting>
+    <setting id="max_width" default="true">0</setting>
+    <setting id="max_height" default="true">0</setting>
+    <setting id="h265">true</setting>
+    <setting id="vp9">true</setting>
+    <setting id="av1">true</setting>
+    <setting id="hdr10">true</setting>
+    <setting id="dolby_vision">true</setting>
+    <setting id="dolby_atmos">true</setting>
+    <setting id="ac3">true</setting>
+    <setting id="ec3">true</setting>
+    <setting id="max_channels" default="true">0</setting>
+    <setting id="proxy_enabled">true</setting>
+    <setting id="wv_level" default="true">0</setting>
+    <setting id="hdcp_level" default="true">0</setting>
+    <setting id="persist_cache">true</setting>
+    <setting id="proxy_server" default="true">kodi</setting>
+    <setting id="verify_ssl">true</setting>
+    <setting id="http_timeout">15</setting>
+    <setting id="http_retries">1</setting>
+    <setting id="service_delay" default="true">0</setting>
+    <setting id="_fresh">false</setting>
+    <setting id="_userdata" default="true">{}</setting>
+    <setting id="_last_news_check">1710780563</setting>
+    <setting id="_last_news_id">h2rpi2fqdd</setting>
+    <setting id="_news" default="true" />
+    <setting id="_arch" default="true">armv7</setting>
+    <setting id="_mac" default="true">132407476217873</setting>
+    <setting id="_proxy_path" default="true" />
+</settings>

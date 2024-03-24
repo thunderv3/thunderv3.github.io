@@ -1,0 +1,112 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>weather</defaultID>
+		<label> [COLOR green]W[/COLOR]etter</label>
+		<label2>Gemeinsamer Menüeintrag</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Weather)</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.themoviedb.helper</defaultID>
+		<label>MovieDB</label>
+		<label2>Video-Addon</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>slyguy.disney.plus</defaultID>
+		<label>[COLOR blue]D[/COLOR]isney+</label>
+		<label2>Video-Addon</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://slyguy.disney.plus",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>slyguy.paramount.plus</defaultID>
+		<label>[COLOR red]P[/COLOR]aramount+</label>
+		<label2>Video-Addon</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://slyguy.paramount.plus",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.discovery.dmax</defaultID>
+		<label>[COLOR deepskyblue]D[/COLOR]MAX-thek</label>
+		<label2>Video-Addon</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.discovery.dmax",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.tvspielfilm_de</defaultID>
+		<label>TV Spielfilm</label>
+		<label2>Video-Addon</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.tvspielfilm_de",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.xstream</defaultID>
+		<label>[COLOR purple]x[/COLOR]Stream</label>
+		<label2>Video-Addon</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.xstream",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.xship</defaultID>
+		<label>Xship</label>
+		<label2>Video-Addon</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.xship",return)</action>
+		<disabled>True</disabled>
+		</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>[COLOR orange]•[/COLOR]TV</label>
+		<label2>Gemeinsamer Menüeintrag</label2>
+		<icon>DefaultTVShows.png</icon>
+		<thumb />
+		<action>ActivateWindow(TVChannels)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>342</label>
+		<label2>Gemeinsamer Menüeintrag</label2>
+		<icon>DefaultMovies.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://movies/titles/,return)</action>
+		<visible>Library.HasContent(Movies)</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>tvshows</defaultID>
+		<label>20343</label>
+		<label2>Gemeinsamer Menüeintrag</label2>
+		<icon>DefaultTVShows.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,videodb://tvshows/titles/,return)</action>
+		<visible>Library.HasContent(TVShows)</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>music</defaultID>
+		<label>2</label>
+		<label2>Gemeinsamer Menüeintrag</label2>
+		<icon>DefaultMusicAlbums.png</icon>
+		<thumb />
+		<action>ActivateWindow(Music)</action>
+		<visible>Library.HasContent(Music)</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>script.ezmaintenanceplus</defaultID>
+		<label>Maintenance</label>
+		<label2>Programm</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://script.ezmaintenanceplus",return)</action>
+		<disabled>True</disabled>
+		</shortcut>
+	</shortcuts>

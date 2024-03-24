@@ -1,0 +1,33 @@
+<settings version="2">
+    <setting id="play_next_episode">true</setting>
+    <setting id="play_next_movie" default="true">false</setting>
+    <setting id="skip_intros" default="true">false</setting>
+    <setting id="skip_credits">false</setting>
+    <setting id="sync_watchlist">false</setting>
+    <setting id="sync_playback" default="true">false</setting>
+    <setting id="app_language" default="true" />
+    <setting id="pagination_multiplier">1</setting>
+    <setting id="kid_lockdown" default="true">false</setting>
+    <setting id="bookmarks">false</setting>
+    <setting id="kiosk" default="true">false</setting>
+    <setting id="default_quality">4</setting>
+    <setting id="max_bandwidth">6</setting>
+    <setting id="default_language" default="true" />
+    <setting id="default_subtitle" default="true" />
+    <setting id="audio_whitelist" default="true" />
+    <setting id="subs_whitelist" default="true" />
+    <setting id="audio_description">false</setting>
+    <setting id="subs_forced">false</setting>
+    <setting id="subs_non_forced">false</setting>
+    <setting id="default_ratio">1</setting>
+    <setting id="dolby_atmos">true</setting>
+    <setting id="hevc" default="true">false</setting>
+    <setting id="hdr10">false</setting>
+    <setting id="dolby_vision" default="true">false</setting>
+    <setting id="use_ia_hls_live">true</setting>
+    <setting id="use_ia_hls_vod">true</setting>
+    <setting id="service_delay" default="true">0</setting>
+    <setting id="_fresh">false</setting>
+    <setting id="_userdata">{&quot;username&quot;:&quot;denny-1992@gmx.de&quot;,&quot;refresh_token&quot;:&quot;eyJ6aXAiOiJERUYiLCJraWQiOiJLcTYtNW1Ia3BxOXdzLUtsSUUyaGJHYkRIZFduRjU3UjZHY1h6aFlvZi04IiwiY3R5IjoiSldUIiwiZW5jIjoiQzIwUCIsImFsZyI6ImRpciJ9..YqzINacfOO8TJzE8.hMtKO1gQuXfmHqdgYtP4293tBxhj-5DE6OGMbYMm-F0wDGGh2BhVI_71-nEh-UwxhUQnlLexfr05hIv57uHOqexSp2JGvg1E4le4wQkiWLq6JeUIP8xXed2ggMD64Kco8FudWDO5w6tN9-YE6mQ6XU-1rRVkw3jjmQQXlTeYbQjPzw6qdQ-_f5m9-YNfL2GOLUSMjvV_Z9vbthiPwYHXr_gCASLtUH_oG1tiToeBK2HPECWr9d4nte4Vlc9YJysckeXOvRMAXJaatzQezZ-OX-K4ngyrFzvGdYYSL03Jb6VWm-1wug0VV03Xjs6H_y9NYSrXuZALBEu8oBhPW7dg0jT5nEdPoZ1ZHZc4ShgqlxfpU-qT1F5Y8YydInVF5FNByIbpmxmMk87YKgFIo1TZi-FnO9hgeuk9OvT25BL5u-dyxqijJJb1QMwAp0eRsVJViMQp3rimRoMLAoHswp8PkcwrIHoEWVRp7Npzvj_WTECzDcKLe6oosM2ul1x3U5e7jNr0ENUaDViNJ9ge5xdcfDkBeevEmuRcGmW1feYWfmFdirQh36TZK4rhdg0JJ_pN6rtJzi13r6YnH08TGQQ36qs86X0ypi1bfZVHA-sZGEgrAmDkMPEbaXYVIutc0Zkz5W0DSTyNKhx9s91CUV2P5WjE1AnaL7npFidc8eilEB72Nt1CdhcKVKBPDgPRadqwhuqff2p8IQHx0ou4WViaaYWlE52qoZL5oT_3dZKGeW4CXluJvaqac_arDHobMM63Ac9-FmmnMssLyH5j8x28lNL5Jex-VyYvapIlBKlOaZXE4ajN9iP0zWB5eYRFWgrXKh_CX3f7pN1ptck3H9sTIo-4esKhnxfsEa_k9EsvsRfHB3r9KNkekAlbOdOPYNTDH3vbR6-FKYZmWxfnTjHfcQvRbf97-qQk32rp0aDt3MGU4dkbDwkgF3wyj2MdFuf4JBLAAompvNxzudcl5L7BbbaWla_mNGGMp6ERKNiphh-bEnDuwbv-tThSa57QSNVccqyHxKfQJZqrAGthIGWVfkNLV1gKUkxCNIlR9hyg7CeV_iqnYaMEW9AasLqNKRUNm9qi5mNAqy8pL3tDiLrup8lpwyiQyCXBMsiZSvzDTVcXhZQHXw3h3oxYxDvle085JNvryckfYSJMhOp8r70mj-tu0md1K3Iwebc5RbTdyGZpNQGZRKoUuI0lVG-vt99PqHey9fev2CG3GPn8LckPQ78Ca-CJDWOduHLPiRW2PXT5IxmI1d9fnu7IQkkstG6Gca9Yj7rBssrtefAlWGc58NoTJf_PfDL284woQC7Q54DaLO2TvssLiwi4ZiJ_0w4h_CkkGTCeYrdJ7WeSHn3xRgwx4wHBOx1PBoMp-dcV1nMwHK1knVi3fDvGPW90-oD0rbVwcTSBuezDvQ0wsnFhExxdNxq0ck9cBRP-m7wfHrtKUSUiiuh1Qlmvw29wylBcIDn3mWGYNXheIAnAd7WBv7ExKOIZox2g9bzz8GTCYqoXs7wGVBz6dM4bWgHnsgP5F54zFzehXBTMIT9fN5Rfdb2U6UvsB1Ve3yvNPncuzkAhGbdHIOLK6KUlmyxd3MxhC-NFBbiWgu4yUCzTb6bY-Ux9R3cFXVjTFOoIGEOlHhjHhLB2LPR3au0l5EcI6uPmgFaCeHlrbnvKw1tUAHJfOguvV6bZakaVm-nvuD_khyLIFXrd2PNu0DTY51mDPWsoQYT5JXP6MHbXbDEaRM9G9vUcdhzP9mB9kJG41-9oRhote0ayJANTgDsL_TQ6KEFor_dYDniMk7twBZ8YypwHgD1XFYU5jz-FLE7NHxwZ6Aipdy2XKPASmB16M3vKq4DBPT6152lTlYK5eQ5bi8iHgU7O960mzd3bat_iWoYmzCMqCEsiRLKi9DnHKAAD4n98aUP1ADxunVjrkbj0tF_WCHPz-Ip8hfgtYsvze6tXUpRPKZgYL7mVZKlxnSdyAgVXhkOoD-B-aLjTEJmClrI1AJ6AhO4aWoEEfk8SWz1-WrCV982bcInvSVXYhgkKjDG3rsCKaG6pjchBNGvG_3FguZgZKbwrv9Rom_LWG54vfWT2zkYWM3x_IKcg7UC1rr_du_LNh0Qt_ASBRVCP6aDahBlexP37PqlanvwnhoW6ids5hTz8m2uP-6aDC7HztxcYQpGiJMZpjiKf4C-yTleuHLd4hpyUyhPh-9H-p24_eKxDPQ5ehoRbZ0WhvPggfikb8JBgVkNuv5LIftoEMEzbzouWU6ma6W4ZhT0vbbZmK9WO3hN4izLi2h8Ngr5vyR6GqhKbCbw7NCyIezW0Q8ziPxcjnCe9mY-D-XGKRhdi_vyOT0vFWoLRaTCnOUbpiykJncXMt_QKcmO0MsIX1cuiGZQnHoswu3kCg1UcDL9E4VCznGTCkw6Yz2kg7ojPJ26mI8VLIwwFw1TgrNxgKNo9TOqydLSEaDZ9hSxhBlpC3iMOFrnSSRzS_vYiRX2EhTJbXmfe4Kgm8NdFNk8huRC_TR76VmfggbrBjpjYo_wDTHlpQxpdMvm79PXehoijDtpJRAa1oJS4mrpcvLnHD-l_Ywq2HJiK7KW25T6VmYEgon0yh4Vsjwlw2FrAtWz9pTNw9dhRRPWLBrQD1mSlFqd5e1yffQunKUt8lqQOBLDPhKBy9mWclrlV2B-ny3_m4eYLtTF5eCY5vxm0bJShrnMihBc1YZF_M_U1Ft65O3X5YeZ59j30F1Vr9m8oMIFpoyzPma7fhyahOGnSaVANggLbCl92pv0TbvXpuIcJ1l23ZCL6VZVNiVEAr-9f48CvWAQN6RKO15TNLqvtKLIy4y-u5Qvav4aZ0z_PVLDFf2cRxr1aAeOhwfPeQPwFKI789bCKRtCl_hZINZEDvuLbU6mGOUy0wW4jANenMA4c1wr6TFd2eDSPC0SEowRA-oYYLKSjkZ9KMD8Qr7PnZlB61sC4bO7QVe3S9hP7Az6u5_47_7GgrGV7r_f30uP0OaWr0Q2WM4V6GaDgMSV_8HIoOKlZGvXlARgbe1GOTkifoj25BNW4NJ8chfVhozArTrBbKLuq9Z34chu3a5wFrQcnNvvCcThdocSvBhBKKQyLw5HddI8J-rNwUMZ3Lfgr65oCt6afMgLKYLRdoUO9cNArY50u8MsxrUq8c0z_Gf8VPnK4R1YClLBawT1YnaVgC-KRei5WsE_oBASL1yPTJv-7Sbk3RTkzv7J7xG3oZsX2HGOKVqFxTGFxa4kOLBXddivo-OZMZJ0UNxZ1llD5FA_bCqIHhvzUTgn6OBRqiVoQbCBGfMBiI5iedVPycTCPPSyF-GSK2zBvQSPyN9I9VYRUyhk32_ZKxwClCe1g7nMtMbD5DmY4Jbohtvj4-8ZibROg-p6ZG2oRbOv9w73D5ajAtoBl4GjAzXSeW08YcLmwqrG42qH7kn4K_QBlk2ZV9TiaX79TFOFOx4RuhEAlZNVeZCbOVy3IVuH-Wfiwk2Lurfzv6H7QZ9K4kZk69f1daxHkRCRGYYol9xEMDCCAtfVeQ0nnwCe6IUlCApX8YiXLUFnbon0Br3bObHDu6xKoagISBNDxRjUlnT65nkjPfFWnlyV6WyDX0JtHCNPkOjZVrI_cPQ7EnR7pMSuG7ZurRdZaIIMweMfHlimijBK6tmsupPZyyKR4REqt9dgQjdNXmL8eRJwlpWi1Sq66UUOmDLovhtMJriITR7LqokqRwuOzwvhM-1GXMd5lRFzMe8gZtWlgXzMG1TdcPX8MNwmX4_1cttUASPgmPBAPhKDltBTpD8UkcBXBQX39mjNSmiqGSZS-qTesmz0ULLOqABwFGUtOjm95iIZN2BaPnQ7lzcGR14gxNBh_zz4mIaGZUaXP8oTIJAS11ArXfAmIfwiAInUl5Na9mDVoaNxtwLhoB8NGUQdVDtGRAjWOARS8z0db9Hfr0pn0Q8JRIqW-kuZHLs4ipJX1Of1Y7R1lsmCkQftiHy0.J5LnEauGIJJCzgcmB7wo5g&quot;,&quot;avatar&quot;:&quot;https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BD2FA0F3965617FC515E3CEBD3AD51C00CCFFBF98F96448EFE46B82867FCE542/scale?width=300&quot;,&quot;profile&quot;:&quot;mampa&quot;,&quot;profile_id&quot;:&quot;c359cdd4-8712-40a2-a693-aadc5a0572e4&quot;,&quot;queries&quot;:[&quot;shogun&quot;,&quot;panther&quot;]}</setting>
+    <setting id="h265" default="true">false</setting>
+</settings>

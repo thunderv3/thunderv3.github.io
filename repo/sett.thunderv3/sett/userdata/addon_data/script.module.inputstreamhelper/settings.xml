@@ -1,0 +1,12 @@
+<settings version="2">
+    <setting id="last_modified" default="true">0.0</setting>
+    <setting id="last_check" default="true">0.0</setting>
+    <setting id="update_declined_at" default="true">0.0</setting>
+    <setting id="version" default="true" />
+    <setting id="disabled" default="true">false</setting>
+    <setting id="update_frequency">31</setting>
+    <setting id="temp_path" default="true">special://masterprofile/addon_data/script.module.inputstreamhelper</setting>
+    <setting id="backups">4</setting>
+    <setting id="label4" default="true" />
+    <setting id="image_url" default="true">https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_veyron-fievel_recovery_stable-channel_fievel-mp.bin.zip</setting>
+</settings>

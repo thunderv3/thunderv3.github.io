@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: starstruck_0b1f9e48e1928605ae9190f62e84ad3a=078948316b681d3f57f1308dde9ca640; path="/"; domain="cinemathek.net"; path_spec; expires="2025-02-14 18:00:29Z"; version=0

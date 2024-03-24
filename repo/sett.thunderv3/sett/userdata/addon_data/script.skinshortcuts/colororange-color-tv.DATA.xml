@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>19019</defaultID>
+		<label>19019</label>
+		<label2>TV</label2>
+		<icon>DefaultTVShows.png</icon>
+		<thumb />
+		<action>ActivateWindow(TVChannels)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>22020</defaultID>
+		<label>22020</label>
+		<label2>TV</label2>
+		<icon>DefaultTVShows.png</icon>
+		<thumb />
+		<action>ActivateWindow(TVGuide)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>19020</defaultID>
+		<label>19020</label>
+		<label2>Einstellungen</label2>
+		<icon>PVRSettings.png</icon>
+		<thumb />
+		<action>ActivateWindow(PVRSettings)</action>
+		</shortcut>
+	</shortcuts>

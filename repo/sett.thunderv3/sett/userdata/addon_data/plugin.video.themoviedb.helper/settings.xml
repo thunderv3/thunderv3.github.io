@@ -1,0 +1,92 @@
+<settings version="2">
+    <setting id="mpaa_prefix" default="true">Rated</setting>
+    <setting id="language">11</setting>
+    <setting id="ignore_regionreleasefilter">true</setting>
+    <setting id="local_db" default="true">false</setting>
+    <setting id="tmdb_details">true</setting>
+    <setting id="artwork_quality">1</setting>
+    <setting id="default_select" default="true">0</setting>
+    <setting id="hide_unaired_movies" default="true">false</setting>
+    <setting id="hide_unaired_episodes" default="true">false</setting>
+    <setting id="nodate_is_unaired" default="true">true</setting>
+    <setting id="special_folders" default="true">0</setting>
+    <setting id="flatten_seasons" default="true">false</setting>
+    <setting id="widgets_nextpage">true</setting>
+    <setting id="widgets_hidewatched" default="true">false</setting>
+    <setting id="calendar_flatten" default="true">true</setting>
+    <setting id="nextaired_linklibrary" default="true">true</setting>
+    <setting id="calendar_art" default="true">0</setting>
+    <setting id="trakt_nextepisodesort" default="true">airdate</setting>
+    <setting id="nextepisodes_usecalendar">true</setting>
+    <setting id="movies_library" default="true">special://profile/addon_data/plugin.video.themoviedb.helper/movies/</setting>
+    <setting id="tvshows_library" default="true">special://profile/addon_data/plugin.video.themoviedb.helper/tvshows/</setting>
+    <setting id="auto_update">false</setting>
+    <setting id="library_autoupdate" default="true">false</setting>
+    <setting id="library_autoupdate_hour" default="true">0</setting>
+    <setting id="monitor_userlist" default="true" />
+    <setting id="monitor_userslug" default="true" />
+    <setting id="last_autoupdate" default="true" />
+    <setting id="ignore_folderchecking" default="true">false</setting>
+    <setting id="alternative_nfo" default="true">false</setting>
+    <setting id="legacy_conversion" default="true">false</setting>
+    <setting id="update_skinshortcuts" default="true">false</setting>
+    <setting id="omdb_apikey" default="true" />
+    <setting id="omdb_apikey_access" default="true">false</setting>
+    <setting id="mdblist_apikey" default="true" />
+    <setting id="mdblist_apikey_access" default="true">false</setting>
+    <setting id="fanarttv_clientkey" default="true" />
+    <setting id="fanarttv_lookup" default="true">false</setting>
+    <setting id="widget_fanarttv_lookup" default="true">false</setting>
+    <setting id="service_fanarttv_lookup" default="true">false</setting>
+    <setting id="fanarttv_clientkey_access" default="true">false</setting>
+    <setting id="fanarttv_secondpref" default="true">false</setting>
+    <setting id="fanarttv_enfallback">false</setting>
+    <setting id="tvdb_token" default="true" />
+    <setting id="tvdb_token_access" default="true">false</setting>
+    <setting id="trakt_token">{&quot;access_token&quot;:&quot;66b08fdcf1434449ebfefc994178f4d58744577e6cba3ed3db593e6dcd65e4a3&quot;,&quot;token_type&quot;:&quot;bearer&quot;,&quot;expires_in&quot;:7776000,&quot;refresh_token&quot;:&quot;5deceb973910a0f5c3870d36036f53d42fc47096234d2714f8ee00b00386b9d2&quot;,&quot;scope&quot;:&quot;public&quot;,&quot;created_at&quot;:1709226530}</setting>
+    <setting id="trakt_token_access" default="true">false</setting>
+    <setting id="trakt_becausewatchedseed" default="true">5</setting>
+    <setting id="trakt_watchedindicators">true</setting>
+    <setting id="trakt_watchedinprogress" default="true">true</setting>
+    <setting id="trakt_sortignorearticle" default="true">false</setting>
+    <setting id="trakt_cacheownlists" default="true">true</setting>
+    <setting id="trakt_playprogress" default="true">false</setting>
+    <setting id="default_player_movies">xS_GlobalSearch.json search_movie</setting>
+    <setting id="default_player_episodes">xS_GlobalSearch.json search_episode</setting>
+    <setting id="default_player_provider" default="true">true</setting>
+    <setting id="default_player_kodi">0</setting>
+    <setting id="combined_players">false</setting>
+    <setting id="bundled_players" default="true">true</setting>
+    <setting id="players_url">https://bit.ly/3SDVxD5</setting>
+    <setting id="provider_allowlist">AD tv | ARD Mediathek | ARD Plus | ARD Plus Apple TV channel | AVA HBZ | AVA VOBB | Alleskino | Amazon Arthaus Channel | Amazon Prime Video | Amazon Video | Animax Plus Amazon Channel | Aniverse Amazon Channel | Apple TV | Apple TV Plus | Arte | Arthaus+ Apple TV channel | Arthouse CNMA Amazon Channel | ArthouseCNMA | BBC Player Amazon Channel | Behind the Tree | Bloody Movies Amazon Channel | BluTV Amazon Channel | BroadwayHD | CONtv | Chili | Cinema of Hearts Amazon Channel | Classix | Comedy Central Plus Amazon Channel | Crime+Investigation Play Apple TV Channel | Crunchyroll | Cultpix | Curiosity Stream | DOCSVILLE | Dekkoo | Discovery Amazon Channel | Discovery+ | Discovery+ Amazon Channel | Disney Plus | DocAlliance Films | Dogwoof On Demand | Eventive | Film Total Amazon Channel | FilmBox+ | Filmlegenden Amazon Channel | Filmtastic | Filmtastic Amazon Channel | Filmzie | Freevee | Full Moon Amazon Channel | GRJNGO Amazon Channel | Google Play Movies | GuideDoc | Hayu | HistoryPlay Amazon Channel | Hoichoi | Home of Horror | Home of Horror Amazon Channel | Joyn | Joyn Plus | KiKA | Kino on Demand | LaCinetek | Love and Passion Amazon Channel | MGM Amazon Channel | MTV Plus Amazon Channel | MUBI | MUBI Amazon Channel | Magellan TV | MagentaTV | Microsoft Store | MovieSaints | Moviedome Plus Amazon Channel | Netflix | Netflix Kids | Netflix basic with Ads | Netzkino | Noggin Apple TV Channel | OUTtv Amazon Channel | Pantaflix | Paramount Plus | Paramount Plus Apple TV Channel  | Paramount+ Amazon Channel | Plex | Pluto TV | Popcorntimes | RTL Crime Amazon Channel | RTL Passion Amazon Channel | RTL+ | Rakuten TV | Rakuten Viki | Realeyz Amazon Channel | Shahid VIP | Shudder Amazon Channel | Silverline Amazon Channel | Sky Go | Sky Store | Sony AXN Amazon Channel | South Park | Spamflix | Starz Play Amazon Channel | Studiocanal Presents ALLSTARS Amazon Channel | Studiocanal Presents MOVIECULT Amazon Channel | Sun Nxt | Superfresh Amazon Channel | TELE 5 | Takflix | True Story | Turk On Video Amazon Channel | Videobuster | Videoload | WOW | WOW Presents Plus | Wedo TV | Yorck on Demand | YouTube | YouTube Premium | ZDF | ZDF Herzkino Amazon Channel | ZDF Select Amazon Channel  | alleskino Amazon Channel | blutv | filmfriend | filmingo | maxdome Store | wedotv</setting>
+    <setting id="service_container_content_fallback" default="true">false</setting>
+    <setting id="service_listitem_readahead" default="true">true</setting>
+    <setting id="pagemulti_library" default="true">2</setting>
+    <setting id="pagemulti_tmdb" default="true">1</setting>
+    <setting id="pagemulti_trakt" default="true">1</setting>
+    <setting id="pagemulti_sync" default="true">1</setting>
+    <setting id="contextmenu_related_lists" default="true">true</setting>
+    <setting id="contextmenu_sync_trakt" default="true">true</setting>
+    <setting id="contextmenu_manage_artwork" default="true">true</setting>
+    <setting id="contextmenu_refresh_details" default="true">true</setting>
+    <setting id="contextmenu_add_to_library" default="true">true</setting>
+    <setting id="genre_icon_location" default="true" />
+    <setting id="trakt_genre_icon_location" default="true" />
+    <setting id="provider_icon_location" default="true" />
+    <setting id="startup_notifications">false</setting>
+    <setting id="connection_notifications">false</setting>
+    <setting id="dummy_duration" default="true">1.0</setting>
+    <setting id="dummy_delay" default="true">1.0</setting>
+    <setting id="dummy_waitresolve">false</setting>
+    <setting id="only_resolve_strm" default="true">false</setting>
+    <setting id="force_xbmcplayer" default="true">true</setting>
+    <setting id="trakt_localhack">true</setting>
+    <setting id="force_recache_kodidb" default="true">false</setting>
+    <setting id="max_threads">10</setting>
+    <setting id="cache_location" default="true" />
+    <setting id="image_location" default="true" />
+    <setting id="use_mem_cache" default="true">false</setting>
+    <setting id="rebuild_listitem_offscreen" default="true">false</setting>
+    <setting id="timer_reports" default="true">false</setting>
+    <setting id="debug_logging" default="true">false</setting>
+</settings>

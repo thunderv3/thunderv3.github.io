@@ -1,0 +1,16 @@
+<settings version="2">
+    <setting id="notify_mode" default="true">false</setting>
+    <setting id="startup.cache">true</setting>
+    <setting id="autoCleanDays">3</setting>
+    <setting id="autoCleanHour">4</setting>
+    <setting id="filesize_alert">50</setting>
+    <setting id="packagenumbers_alert">10</setting>
+    <setting id="filesizethumb_alert">50</setting>
+    <setting id="enable_wiz5" default="true">false</setting>
+    <setting id="name5" default="true" />
+    <setting id="url5" default="true">http://</setting>
+    <setting id="img5" default="true">special://home/addons/script.ezmaintenanceplus/fanart.jpg</setting>
+    <setting id="BackupFixSpecialHome" default="true">false</setting>
+    <setting id="download.path">/storage/emulated/0/Download/</setting>
+    <setting id="restore.path">/storage/emulated/0/Download/</setting>
+</settings>

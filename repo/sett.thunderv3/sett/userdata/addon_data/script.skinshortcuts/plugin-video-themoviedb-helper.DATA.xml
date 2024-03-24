@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.themoviedb.helper</defaultID>
+		<label>TheMovieDb Helper</label>
+		<label2>Video-Addon</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.themoviedb.helper",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>script.ezmaintenanceplus</defaultID>
+		<label>EZ Maintenance+</label>
+		<label2>Programm</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Programs,"plugin://script.ezmaintenanceplus",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>script.module.inputstreamhelper</defaultID>
+		<label>InputStream Helper</label>
+		<label2>Programm</label2>
+		<icon>DefaultAddon.png</icon>
+		<thumb>thumb</thumb>
+		<action>RunAddOn(script.module.inputstreamhelper)</action>
+		</shortcut>
+	</shortcuts>
