@@ -1,4 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: __ddg1_=9cxKQRNcMslEKKO5afPi; path="/"; domain=".s.to"; path_spec; domain_dot; expires="2025-02-14 18:00:28Z"; HttpOnly=None; version=0
-Set-Cookie3: __ddg1_=I7mT4wk37tPNcY3Puv69; path="/"; domain=".voe.sx"; path_spec; domain_dot; expires="2025-03-07 12:22:42Z"; HttpOnly=None; version=0
-Set-Cookie3: __ddg1_=24dObL9bRe8VhUetddik; path="/"; domain=".sharonwhiledemocratic.com"; path_spec; domain_dot; expires="2025-03-07 12:22:42Z"; HttpOnly=None; version=0

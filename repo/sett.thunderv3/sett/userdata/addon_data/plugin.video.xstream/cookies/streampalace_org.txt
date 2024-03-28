@@ -1,2 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: starstruck_97af3d059228213e80a23d1c857479b8=0f0897b5443a91dd2d235f954258dfe2; path="/"; domain="streampalace.org"; path_spec; secure; expires="2025-02-14 17:56:07Z"; version=0

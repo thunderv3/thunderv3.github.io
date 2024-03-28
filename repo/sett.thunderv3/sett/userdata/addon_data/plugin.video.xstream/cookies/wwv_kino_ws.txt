@@ -1,3 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: XSRF-TOKEN=eyJpdiI6Ik4xYXVWYW9YeTQwRWk4ZmVNb1wvXC9lZz09IiwidmFsdWUiOiJPUlJySnlWZGZvRkIwQjY2VmQrNVpmc0RFMTExTXJzSDM2c2JDTDVUYkVuaXJHa0RQa0hoaGZYbCs1ZldmdXFTIiwibWFjIjoiNzEwNzlhZmEwMjkwYTc2YmRlMWY0ZTE3OWQ4MjM5ZGMwYTBhYWQ3ODdlYjI2ZjUyN2M1NmZlYjUxODNmNzZmMSJ9; path="/"; domain="wwv.kino.ws"; path_spec; expires="2024-03-18 19:01:39Z"; version=0
-Set-Cookie3: kino_session="eyJpdiI6IkFYWElEN0JpMU9XQTZqbVdmTlRSUGc9PSIsInZhbHVlIjoiS21tY1ZjaHpuMXhnQlAxZVZwblg3allJaEhLbFRialFWelh3T1lzRlZLd0lNT3Z1N2d1ZnVIaXhwcGV3SzY4bCIsIm1hYyI6IjZkNmM5NGVlODI4MjQ4OThlODBlZmZjZTc2NzFjODlmMTFjMDZhOTBlNjdiZTM1MmRiOWFmZDQ4NmFhZTA4NTkifQ%3D%3D"; path="/"; domain="wwv.kino.ws"; path_spec; expires="2024-03-18 19:01:39Z"; httponly=None; version=0
