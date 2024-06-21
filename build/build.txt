@@ -1,8 +1,8 @@
-################ Kodi 21 Builds ################
+################ Kodi v21.0 Builds ################
 
 name="JayTV_Plus"
 version="1.1"
-url="https://kodibuilds.de/builds/New_Paradise_21.zip"
+url="https://thunderv3.github.io/build/jaytvplus.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
