@@ -1,6 +1,6 @@
 ################ Kodi v21.0 Builds ################
 
-name="JayTV_Plus"
+name="jaytvplus"
 version="1.1"
 url="https://thunderv3.github.io/build/jaytvplus.zip"
 minor="http://"
@@ -12,4 +12,4 @@ fanart=""
 preview="http://"
 adult="No"
 info="http://"
-description="JayTV_Plus"
+description="jaytvplus"
