@@ -1,6 +1,6 @@
 name="Example APK1"
 section="no"
-url="https://mirrors.kodi.tv/releases/android/arm/kodi-21.0-Omega-armeabi-v7a.apk"
+url="https://mirrors.kodi.tv/releases/windows/win32/kodi-21.0-Omega_rc1-x86.exe"
 icon="http://"
 fanart="http://"
 adult="no"
