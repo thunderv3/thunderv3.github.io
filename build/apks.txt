@@ -1,4 +1,19 @@
-https://mirrors.kodi.tv/releases/android/arm/
-https://mirrors.kodi.tv/releases/android/arm/kodi-21.0-Omega-armeabi-v7a.apk
-https://mirrors.kodi.tv/releases/android/arm/kodi-21.0-Omega_rc2-armeabi-v7a.apk
-https://mirrors.kodi.tv/releases/android/arm/kodi-21.0-Omega_beta3-armeabi-v7a.apk
+name="Example APK1"
+section="no"
+url="https://mirrors.kodi.tv/releases/android/arm/kodi-21.0-Omega-armeabi-v7a.apk"
+icon="http://"
+fanart="http://"
+adult="no"
+description="A short description of the APK."
+
+name="Example Section"
+section="yes"
+url="https://mirrors.kodi.tv/releases/android/arm/kodi-21.0-Omega_rc2-armeabi-v7a.apk"
+icon="http://"
+fanart="http://"
+adult="no"
+description="An example section."
+
+
+
+
