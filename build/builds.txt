@@ -45,6 +45,19 @@ adult="No"
 info="http://"
 description="JayTV premium21"
 
+name="kodi21"
+version="1.1"
+url="https://thunderv3.github.io/build/kodi21.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://thunderv3.github.io/build/jaytv.jpg"
+fanart="https://thunderv3.github.io/build/jaytv.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="kodi21"
 
 ################ Kodi 20 Builds ################
 
