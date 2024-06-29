@@ -17,7 +17,7 @@ description="JayTV Plus 22"
 
 ################ Kodi 21 Builds ################
 
-name="jaytvplus"
+name="jaytvplus21"
 version="1.1"
 url="https://shorturl.at/zfeNo"
 minor="http://"
@@ -31,7 +31,7 @@ adult="No"
 info="http://"
 description="JayTV Plus21"
 
-name="JayTV Premium"
+name="JayTV Premium21"
 version="1.1"
 url="https://thunderv3.github.io/build/jaytvplus.zip"
 minor="http://"
@@ -61,8 +61,8 @@ description="kodi21"
 
 ################ Kodi 20 Builds ################
 
-name="jaytvplus"
-version="1.1"
+name="jaytvplus20"
+version="1.0"
 url="https://shorturl.at/zfeNo"
 minor="http://"
 gui="http://"
@@ -75,8 +75,8 @@ adult="No"
 info="http://"
 description="JayTV Plus20"
 
-name="JayTV Premium"
-version="1.1"
+name="JayTV Premium20"
+version="1.0"
 url="https://thunderv3.github.io/build/jaytvplus.zip"
 minor="http://"
 gui="http://"
