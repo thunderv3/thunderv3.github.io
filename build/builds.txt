@@ -1,5 +1,3 @@
-
-
 ################ Kodi 21 Builds ################
 
 name="jaytvplus"
