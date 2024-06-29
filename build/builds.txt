@@ -1,3 +1,5 @@
+
+
 ################ Kodi 22 Builds ################
 
 name="jaytvplus22"
@@ -5,7 +7,7 @@ version="2.2"
 url="https://shorturl.at/zfeNo"
 minor="http://"
 gui="http://"
-kodi="22.0"
+kodi="22.2"
 theme="http://"
 icon="https://thunderv3.github.io/build/jaytv.jpg"
 fanart="https://thunderv3.github.io/build/jaytv.jpg"
