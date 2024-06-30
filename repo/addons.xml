@@ -6,14 +6,11 @@
         <import addon="script.module.requests" />
         <import addon="script.module.six" />
      </requires>
-    
-    <extension point="xbmc.python.pluginsource" library="default.py">
+        <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>executable</provides>
     </extension>
-    
-    <extension point="xbmc.service" library="startup.py" start="startup" />
-    
-    <extension point="xbmc.addon.metadata">
+        <extension point="xbmc.service" library="startup.py" start="startup" />
+        <extension point="xbmc.addon.metadata">
         <summary lang="de">[COLOR darkcyan]JayTv Plus [/COLOR]All In One Wizard</summary>
         <description lang="de">[COLOR darkcyan]JayTv Plus [/COLOR]All In One Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
@@ -24,10 +21,10 @@
 2.0.2
  - Replace remaining occurences of LOGNOTICE 
  -Service offline
-        </news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.png</fanart>
+   </news>
+ <assets>
+          <icon>icon.png</icon>
+         <fanart>fanart.png</fanart>
         </assets>
     </extension>
 </addon>
@@ -39,7 +36,6 @@
 			<checksum>https://michaz1988.github.io/repo/addons.xml.md5</checksum>
 			<datadir zip="true">https://michaz1988.github.io/repo/</datadir>
 		</dir>
-		
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
