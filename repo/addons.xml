@@ -5,10 +5,12 @@
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
         <import addon="script.module.six" />
-     </requires>
-     <extension point="xbmc.python.pluginsource" library="default.py">
-     <extension point="xbmc.service" library="startup.py" start="startup">
-     <extension point="xbmc.addon.metadata">
+      </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+    <extension point="xbmc.service" library="startup.py" start="startup">
+    <extension point="xbmc.addon.metadata">
+      </extension>
+
         <summary lang="de">[COLOR darkcyan]JayTv Plus [/COLOR]All In One Wizard
         </summary>
        <description lang="de">[COLOR darkcyan]JayTv Plus [/COLOR]All In One Wizard offers many maintenance features, selective add-on data saving, and automated build installs.
@@ -26,7 +28,6 @@
             <icon>icon.png</icon>
             <fanart>fanart.png</fanart>
         </assets>
-   </extension>
 </addon>
 
 </addons>
