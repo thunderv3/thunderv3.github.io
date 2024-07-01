@@ -14,9 +14,9 @@ adult="No"
 info="http://"
 description="JayTV Plus"
 
-name="JayTV Premium"
+name="tv3full"
 version="2.1"
-url="https://thunderv3.github.io/build/jaytvplus.zip"
+url="https://shorturl.at/B4fIA"
 minor="http://"
 gui="http://"
 kodi="21.0"
@@ -26,7 +26,7 @@ fanart="https://thunderv3.github.io/build/jaytv.jpg"
 preview="http://"
 adult="No"
 info="http://"
-description="JayTV premium"
+description="Thunderv3 Build"
 
 
 ################ Kodi 20 Builds ################
