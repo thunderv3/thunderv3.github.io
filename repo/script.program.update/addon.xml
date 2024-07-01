@@ -5,20 +5,13 @@
         <import addon="script.module.requests" />
         <import addon="script.module.six" />
      </requires>
-    
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        
-    </extension>
-    
-    <extension point="xbmc.service" library="startup.py" start="startup" />
-    
-    <extension point="xbmc.addon.metadata">
+     <extension point="xbmc.python.pluginsource" library="default.py">
+     <extension point="xbmc.service" library="startup.py" start="startup" />
+     <extension point="xbmc.addon.metadata">
         <summary lang="de">[COLOR darkcyan]JayTv Plus [/COLOR]All In One Wizard</summary>
-        <description lang="de">[COLOR darkcyan]JayTv Plus [/COLOR]All In One Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+       <description lang="de">[COLOR darkcyan]JayTv Plus [/COLOR]All In One Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
-        <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source></source>
-        <news>
+   <news>
 20.5
  - Edit to run Omega 21.0 --> https://thunderv3.github.io/
  - https://a4k-openproject.github.io/
