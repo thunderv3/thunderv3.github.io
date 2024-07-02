@@ -9,7 +9,7 @@ description="https://mirrors.kodi.tv/releases/"
 
 name="Example"
 section="no"
-url=""
+url="https://mirror.hro.nl/xbmc/releases/android/arm/kodi-20.5-Nexus-armeabi-v7a.apk"
 icon="http://"
 fanart="http://"
 adult="no"
