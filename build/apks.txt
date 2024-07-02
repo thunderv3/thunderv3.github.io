@@ -14,6 +14,10 @@ fanart="http://"
 adult="no"
 description="An example section."
 
-
-
-
+name="Example APK2"
+section="no"
+url="https://uc77464e8a078ffb1d0b55e91e03.dl.dropboxusercontent.com/cd/0/get/CV-EdDLUdSqSwFtAt2SHMqU9ptEimBj6ggOEOgKJRtJejGeDcpmk2elUmL6ojcckIcxQPz0nsGeoByHIMNDly0mnZBB59g-MGYvAcxsE77mVwCI__1GaTUdHylxxO6fg5NvV7YYl78o3GFK0iUyWS9ziVaOv4CL6zNxaD7T2tiKPKw/file#"
+icon="http://"
+fanart="http://"
+adult="no"
+description="A short description of the APK."
