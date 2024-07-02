@@ -8,7 +8,7 @@ description="A short description of the APK."
 
 name="Example Section"
 section="yes"
-url="https://mirrors.kodi.tv/releases/android/arm/kodi-21.0-Omega_rc2-armeabi-v7a.apk"
+url="https://mirrors.kodi.tv/releases/android/arm/"
 icon="http://"
 fanart="http://"
 adult="no"
