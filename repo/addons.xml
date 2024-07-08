@@ -57,4 +57,32 @@
 		</assets> 
 	</extension>
 </addon>
+	
+<addon id="skin.JayTVPlus" name="JayTVPlus" version="3.2.0" provider-name="Thunderv3">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0" />
+		<import addon="script.skinshortcuts" />
+		
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de_DE">JayTVPlus</summary>
+		<description lang="de_DE">JayTVPlus</description>
+		<platform>all</platform>
+		<license>CC BY-NC-SA 4.0</license>
+		<forum>http://thunderv3.github.io</forum>
+		<website>http://thunderv3.github.io</website>
+		<email></email>
+		<source>http://thunderv3.github.io</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.png</fanart>
+			<screenshot>resources/screenshot.png</screenshot>
+		</assets>
+		<news>Moddet Skin</news>
+	</extension>
+</addon>
 </addons>
