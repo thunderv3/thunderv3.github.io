@@ -1,3 +1,0 @@
-name="Example"
-url="https://mirror.hro.nl/xbmc/releases/android/arm/kodi-20.5-Nexus-armeabi-v7a.apk"
-description="A short description of the APK."
