@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <addon id="skin.quartzstart" version="1.21.0" name="Quartzstart" provider-name="nonjon">
   <requires>
     <import addon="xbmc.gui" version="5.17.0"/>
