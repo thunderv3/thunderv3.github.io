@@ -1,6 +1,6 @@
 ################ Kodi 21 Builds ################
 
-name="jaytvplus"
+name="jaytvplus-alt"
 version="2.1"
 url="https://shorturl.at/zfeNo"
 minor="http://"
@@ -14,7 +14,7 @@ adult="No"
 info="http://"
 description="JayTV Plus Build"
 
-name="jaytvplus21"
+name="jaytvplus21-alt"
 version="2.1"
 url=""
 minor="http://"
