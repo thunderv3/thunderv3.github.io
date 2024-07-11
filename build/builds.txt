@@ -28,6 +28,20 @@ adult="No"
 info="http://"
 description="Thunderv3 Build"
 
+name="jaytv3"
+version="1.0"
+url="https://download.wetransfer.com/eugv/43c0fef122503e4639a9ea8798c0899020240711181852/d899a53cf347b33335cee442ffae9af3496cc898/kodi_backup_202407102122.zip?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MjA3MjI2NDAsImlhdCI6MTcyMDcyMjA0MCwiZG93bmxvYWRfaWQiOiI0Mjg0MWZlZS02NjdkLTQyOWUtOTY0Yi1jZDNiZGI2YjRiOWEiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.7lCenvlEPUWYBzJpGtptCWzG3p3gWjCEjcJtmfXHNxE"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://thunderv3.github.io/build/jaytv.jpg"
+fanart="https://thunderv3.github.io/build/jaytv.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Thunderv3 offline am 14.06.24"
+
 
 ################ Kodi 20 Builds ################
 
