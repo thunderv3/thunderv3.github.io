@@ -16,7 +16,7 @@ description="JayTV Plus Build"
 
 name="jaytv3"
 version="1.0"
-url="https://shorturl.at/ZRdjX"
+url="https://2657fa71559b7366ed642a2305b5cfe3.r2.cloudflarestorage.com/easyupload/4bhfey_kodi_jaytv3.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c1da4bcf7c9076d105cb082e4270665b%2F20240711%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240711T161706Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=add136fe430ebfdbecefc97225b12bf62911965f331a01c70d22bb841d5f8f4c"
 minor="http://"
 gui="http://"
 kodi="21.0"
