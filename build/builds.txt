@@ -1,20 +1,6 @@
 ################ Kodi 21 Builds ################
 
 name="jaytvplus-alt"
-version="2.5"
-url="https://download.wetransfer.com/eugv/9d2a2a5779e5fe16495a058dc5901c7520240711180459/a3c00634622bfba5923ec44e27ad5ace4ad58bad/kodi_backup.zip?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE3MjA3MjE4MTYsImlhdCI6MTcyMDcyMTIxNiwiZG93bmxvYWRfaWQiOiI3MDVmNGMxYy05NDA1LTQzZDktYjJjYy0xZWEzMjFjMmM4Y2YiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.GomDaGyPgSCRPAGpdTGp2BC6fIf6MCMUZPkzXDCiKQo"
-minor="http://"
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://thunderv3.github.io/build/jaytv.jpg"
-fanart="https://thunderv3.github.io/build/jaytv.jpg"
-preview="http://"
-adult="No"
-info="http://"
-description="JayTV Plus Buildfix "
-
-name="jaytvplus-alt"
 version="2.1"
 url="https://shorturl.at/zfeNo"
 minor="http://"
