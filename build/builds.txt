@@ -16,7 +16,7 @@ description="JayTV Plus Build"
 
 name="jaytvplus-fix"
 version="1.0"
-url="https://shorturl.at/mwEiD"
+url="https://shorturl.at/bYdSi"
 minor="http://"
 gui="http://"
 kodi="21.0"
