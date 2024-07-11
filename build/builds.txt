@@ -16,7 +16,7 @@ description="JayTV Plus Build"
 
 name="jaytv3"
 version="1.0"
-url="https://get.hidrive.com/api/B5c7h2dJ/file/ADvTtivUd9TPTrSLomutNH"
+url="https://thunderv3.github.io/test/kodi_jaytv3.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
