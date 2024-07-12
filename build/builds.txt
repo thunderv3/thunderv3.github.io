@@ -2,7 +2,7 @@
 
 name="JayTvPlus"
 version="1.0"
-url="https://shorturl.at/zfeNo"
+url="https://www.dropbox.com/scl/fi/acnzndfson4q5gqi4qws2/jaytvplus001.zip?rlkey=osszd1442utzb379k3r8wms6t&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.0"
