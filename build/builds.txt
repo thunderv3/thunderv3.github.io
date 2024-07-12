@@ -28,6 +28,19 @@ adult="No"
 info="http://"
 description="Thunderv3 offline 24"
 
+name="defekt2"
+version="0"
+url="https://www.dropbox.com/scl/fi/jcmfppmmb80q4vkpf78rw/jaytv3.zip?rlkey=y3q911ezvc2wun6q4wc1ganu5&st=r4bthg6g&dl=1"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://thunderv3.github.io/build/jaytv.jpg"
+fanart="https://thunderv3.github.io/build/jaytv.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Thunderv3 offline 24"
 
 ################ Kodi 20 Builds ################
 
