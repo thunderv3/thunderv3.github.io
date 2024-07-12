@@ -29,7 +29,7 @@ info="http://"
 description="Thunderv3 offline 24"
 
 name="defekt2"
-version="0"
+version="1"
 url="https://www.dropbox.com/scl/fi/jcmfppmmb80q4vkpf78rw/jaytv3.zip?rlkey=y3q911ezvc2wun6q4wc1ganu5&st=r4bthg6g&dl=1"
 minor="http://"
 gui="http://"
