@@ -16,7 +16,7 @@ description="JayTVPlus July-Build"
 
 name="defekt"
 version="0"
-url=""
+url="https://www.dropbox.com/scl/fi/ugv9hr40afnb07p1o7d56/kodi_tv3.zip?rlkey=atxvhtfx06rbee0bhf3v8zz3q&st=k6rzs2kg&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.0"
