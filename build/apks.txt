@@ -1,8 +1,0 @@
-
-name="Root-releases-android-arm"
-section="yes"
-url="https://mirrors.kodi.tv/releases/android/arm/"
-icon="http://"
-fanart="http://"
-adult="no"
-description="https://mirrors.kodi.tv/releases/"
