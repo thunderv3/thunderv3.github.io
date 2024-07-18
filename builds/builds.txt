@@ -1,8 +1,8 @@
 ################ Kodi 21 Builds ################
 
-name="JayTvPlus"
+name="JayTv Plus Gold 32bit"
 version="1.0"
-url="https://"
+url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=0"
 minor="http://"
 gui="http://"
 kodi="21.0"
