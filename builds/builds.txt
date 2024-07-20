@@ -2,7 +2,7 @@
 
 name="JayTv Plus Gold 32bit"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=0"
+url="https://www.dropbox.com/scl/fi/qqt96vpejli3x9t10si34/JayTv-Plus-Start-Build-APK.zip?rlkey=tgirnhhb9wgsv5l187qihyva2&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.0"
