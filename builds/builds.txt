@@ -1,7 +1,7 @@
 ################ Kodi 21 Builds ################
 
-name="JayTv Intro test"
-version="1.0"
+name="JayTv test"
+version="1.2"
 url="https://www.dropbox.com/scl/fi/qqt96vpejli3x9t10si34/JayTv-Plus-Start-Build-APK.zip?rlkey=tgirnhhb9wgsv5l187qihyva2&dl=1"
 minor="http://"
 gui="http://"
@@ -12,7 +12,7 @@ fanart="https://thunderv3.github.io/builds/jaytv.jpg"
 preview="http://"
 adult="No"
 info="http://"
-description="JayTVPlus testBuild"
+description="JayTv Plus - testBuild"
 
 name="JayTv Plus Gold"
 version="1.0"
@@ -41,6 +41,20 @@ preview="http://"
 adult="No"
 info="http://"
 description="Thunderv3 offline 24"
+
+name="defekt3"
+version="1.0"
+url="https://"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://thunderv3.github.io/builds/jaytv.jpg"
+fanart="https://thunderv3.github.io/builds/jaytv.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="Thunderv3 24"
 
 ################ Kodi 20 Builds ################
 
