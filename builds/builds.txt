@@ -1,6 +1,6 @@
 ################ Kodi 21 Builds ################
 
-name="JayTv Intro Build test"
+name="JayTv Intro test"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/qqt96vpejli3x9t10si34/JayTv-Plus-Start-Build-APK.zip?rlkey=tgirnhhb9wgsv5l187qihyva2&dl=1"
 minor="http://"
