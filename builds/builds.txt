@@ -1,3 +1,20 @@
+################ Kodi 22 Builds ################
+
+name="JayTv Plus Piers"
+version="9.0"
+url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
+minor="http://"
+gui="http://"
+kodi="22.0"
+theme="http://"
+icon="https://thunderv3.github.io/builds/jaytv.jpg"
+fanart="https://thunderv3.github.io/builds/jaytv.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="JayTv22 Plus Gold"
+
+
 ################ Kodi 21 Builds ################
 
 name="JayTv Plus Gold"
