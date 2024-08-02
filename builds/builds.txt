@@ -46,7 +46,7 @@ info="https://thunderv3.github.io/Jaytvplus/mcjaytv.jpg"
 description="Thunderv3 24"
 
 name="MC Jay-thek Build"
-version="1.5"
+version="1.6"
 url="https://www.dropbox.com/scl/fi/ucosjsk2j6o5fm4smf5qr/MC-Jay-thek.zip?rlkey=ttgu0oghkimp18sgg56rh7a8w&st=eljb65ni&dl=1"
 minor="http://"
 gui="http://"
