@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.thunderv3" name="Thunderv3 Repo" provider-name="Thunderv3" version="3.1">
+<addon id="repository.thunderv3" name="Thunderv3 Repo" provider-name="Thunderv3" version="3.2">
 	<extension point="xbmc.addon.repository" name="Thunderv3 Repo">
 		<dir>
 			<info compressed="false">https://thunderv3.github.io/repos/addons.xml</info>
 			<checksum>https://thunderv3.github.io/repos/addons.xml.md5</checksum>
 			<datadir zip="true">https://thunderv3.github.io/repos/</datadir>
 		</dir>
+		<dir minversion="19.9.701" maxversion="20.9.700">
+            <info compressed="false">https://thunderv3.github.io/repos/addons.xml</info>
+			<checksum>https://thunderv3.github.io/repos/addons.xml.md5</checksum>
+            <datadir zip="true">https://thunderv3.github.io/repos/</datadir>
+        </dir>
+		<dir minversion="20.9.910" maxversion="21.9.700">
+            <info compressed="false">https://thunderv3.github.io/repos/addons.xml</info>
+			<checksum>https://thunderv3.github.io/repos/addons.xml.md5</checksum>
+            <datadir zip="true">https://thunderv3.github.io/repos/</datadir>
+        </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
+		<language>de</language>
 		<summary lang="de">Thunderv3 Repository</summary>
 		<description lang="de">Please do NOT post this Repository on the internet, thank you. By Thunderv3.	</description>
-		<disclaimer lang="de">Bitte, die Repo nicht verteilen.</disclaimer>
+		<disclaimer lang="de">Bitte, die Repo veröffentlichen.</disclaimer>
 		<website>https://thunderv3.github.io/</website>
 		<assets>
 			<icon>icon.png</icon>

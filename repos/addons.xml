@@ -173,8 +173,6 @@
             <icon>/resources/icons/icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-
-
 	</extension>
 </addon>
 
@@ -230,29 +228,6 @@
 	</extension>
 </addon>
 
-
-<addon id="plugin.video.ghosttv" name="[COLOR red]Ghost TV[/COLOR]" version="1.1" provider-name="Ghost">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0" />
-		<import addon="script.module.six" />
-		<import addon="script.module.kodi-six" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-
-	<extension point="xbmc.addon.metadata">
-		<summary>Ghost 247 Tv</summary>
-		<description>Extension For Ghost</description>
-		<platform>all</platform>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
-
 <addon id="repository.slyguy" name="SlyGuy Repository" provider-name="SlyGuy" version="0.0.9">
   <extension point="xbmc.addon.repository" name="SlyGuy Repository">
     <dir>
@@ -280,12 +255,10 @@
     <import addon="xbmc.gui" version="5.17.0"/>
     <import addon="script.favourites" version="4.0.4"/>
   </requires>
-  
-  <extension
+    <extension
     point="xbmc.gui.skin" debugging="false">
     <res width="1920" height="1080" aspect="16:9" default="true" folder="16x9" />
   </extension>
-      
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
 	<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
@@ -512,19 +485,31 @@
 	</extension>
 </addon>
 
-<addon id="repository.thunderv3" name="thunderv3 Repo" provider-name="Thunderv3" version="3.1">
+
+<addon id="repository.thunderv3" name="Thunderv3 Repo" provider-name="Thunderv3" version="3.2">
 	<extension point="xbmc.addon.repository" name="Thunderv3 Repo">
 		<dir>
 			<info compressed="false">https://thunderv3.github.io/repos/addons.xml</info>
 			<checksum>https://thunderv3.github.io/repos/addons.xml.md5</checksum>
 			<datadir zip="true">https://thunderv3.github.io/repos/</datadir>
 		</dir>
+		<dir minversion="19.9.701" maxversion="20.9.700">
+            <info compressed="false">https://thunderv3.github.io/repos/addons.xml</info>
+			<checksum>https://thunderv3.github.io/repos/addons.xml.md5</checksum>
+            <datadir zip="true">https://thunderv3.github.io/repos/</datadir>
+        </dir>
+		<dir minversion="20.9.910" maxversion="21.9.700">
+            <info compressed="false">https://thunderv3.github.io/repos/addons.xml</info>
+			<checksum>https://thunderv3.github.io/repos/addons.xml.md5</checksum>
+            <datadir zip="true">https://thunderv3.github.io/repos/</datadir>
+        </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
+		<language>de</language>
 		<summary lang="de">Thunderv3 Repository</summary>
 		<description lang="de">Please do NOT post this Repository on the internet, thank you. By Thunderv3.	</description>
-		<disclaimer lang="de">Bitte, die Repo nicht verteilen.</disclaimer>
+		<disclaimer lang="de">Bitte, die Repo veröffentlichen.</disclaimer>
 		<website>https://thunderv3.github.io/</website>
 		<assets>
 			<icon>icon.png</icon>
@@ -532,7 +517,6 @@
 		</assets> 
 	</extension>
 </addon>
-
 <addon id="repository.michaz" name="Michaz Repository" provider-name="Michaz" version="4.5">
 	<extension point="xbmc.addon.repository" name="Michaz Repository">
 		<dir>
