@@ -250,8 +250,10 @@
   </extension>
 </addon>
 
-<addon id="skin.quartzstart" version="1.21.5" name="Quartzstart" provider-name="nonjon">
+<addon id="skin.quartzstart" version="1.21.0" name="Quartzstart" provider-name="nonjon">
   <requires>
+    <import addon="xbmc.gui" version="5.17.0"/>
+    <import addon="script.favourites" version="4.0.4"/>
   </requires>
   
   <extension
@@ -276,7 +278,6 @@
 	</assets>
   </extension>
 </addon>
-
 
 <addon id="script.skinshortcuts" name="Skin Shortcuts" version="2.0.3" provider-name="BigNoid, marcelveldt, SiLVO, anxdpanic">
     <requires>
