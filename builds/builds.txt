@@ -18,8 +18,8 @@ description="JayTv22 Plus Gold"
 ################ Kodi 21 Builds ################
 
 name="JayTv Plus Gold"
-version="1.2.1"
-url="https://www.dropbox.com/scl/fi/f7qipebr9b1wlhgqiz9qp/gold12345.zip?rlkey=cy0jp98sy8fgy4t3g6pai2ah5&dl=1"
+version="1.2.5"
+url="https://www.dropbox.com/scl/fi/yvmbdg0seo97elp8gnnko/FinalVersionJayTvPlusGold.zip?rlkey=43jyzu23qhxrixp2p2iakfq4x&st=m6vhv0ta&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.0"
