@@ -1,4 +1,4 @@
-<addon id="skin.quartzstart" version="1.21.0" name="Quartzstart" provider-name="nonjon">
+<addon id="skin.quartzstart" version="1.21.5" name="Quartzstart" provider-name="nonjon">
   <requires>
     <import addon="xbmc.gui" version="5.17.0"/>
     <import addon="script.favourites" version="4.0.4"/>
