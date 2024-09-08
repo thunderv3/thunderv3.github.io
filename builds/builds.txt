@@ -27,7 +27,7 @@ theme="https://thunderv3.github.io/Jaytvplus/jaytvplusgoldoffline.jpg"
 icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgoldoffline.jpg"
 fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgoldoffline.jpg"
 preview=""
-adult="Yes"
+adult="No"
 info=""
 description="JayTv Plus Gold Offline"
 
