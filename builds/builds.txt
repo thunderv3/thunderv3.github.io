@@ -19,7 +19,7 @@ description="JayTv22 Plus Gold"
 
 name="Offline"
 version="1.2.6"
-url=""
+url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
