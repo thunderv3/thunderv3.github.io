@@ -1,36 +1,8 @@
 ################ Kodi 22 Builds ################
 
-name="JayTv Plus1 Piers"
+name="JayTv Plus Piers"
 version="9.0"
-url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
-minor="http://"
-gui="http://"
-kodi="22.0"
-theme="http://"
-icon="https://thunderv3.github.io/builds/jaytv.jpg"
-fanart="https://thunderv3.github.io/builds/jaytv.jpg"
-preview=""
-adult="No"
-info="http://"
-description="JayTv22 Plus Gold"
-
-name="JayTv Plus2 Piers"
-version="9.0"
-url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
-minor="http://"
-gui="http://"
-kodi="22.0"
-theme="http://"
-icon="https://thunderv3.github.io/builds/jaytv.jpg"
-fanart="https://thunderv3.github.io/builds/jaytv.jpg"
-preview=""
-adult="No"
-info="http://"
-description="JayTv22 Plus Gold"
-
-name="JayTv Plus3 Piers"
-version="9.0"
-url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
+url=""
 minor="http://"
 gui="http://"
 kodi="22.0"
@@ -102,21 +74,7 @@ description=Thunderv3 24"
 
 ############### Kodi 20 Builds ###############
 
-name="jaytvplus20.1"
-version="1.0"
-url=""
-minor="http://"
-gui="http://"
-kodi="20.5"
-theme="http://"
-icon="https://thunderv3.github.io/build/jaytv.jpg"
-fanart="https://thunderv3.github.io/build/jaytv.jpg"
-preview="http://"
-adult="No"
-info="http://"
-description="JayTV Plus1"
 
 
-################ Kodi  Builds ################
 
 
