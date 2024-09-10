@@ -74,7 +74,19 @@ description=Thunderv3 24"
 
 ############### Kodi 20 Builds ###############
 
+name="MC-Minions"
+version="20"
+url="https://www.dropbox.com/scl/fi/f2yj6e9nnyozg90ja19ya/MC-Minions.zip?rlkey=ki43l5nnjcmes94c0vzjhqdd9&st=e1ctpnrz&dl=1"
+minor=""
+gui="http://"
+kodi="20.0"
+theme="https://thunderv3.github.io/Jaytvplus/MC-Minions.png"
+icon="https://thunderv3.github.io/Jaytvplus/MC-Minions.png"
+fanart="https://thunderv3.github.io/Jaytvplus/MC-Minions.png"
+preview=""
+adult="No"
+info=""
+description=Thunderv3 24"
 
-
-
+############### Kodi Builds ###############
 
