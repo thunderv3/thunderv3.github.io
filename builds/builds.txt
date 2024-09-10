@@ -14,6 +14,7 @@ adult="No"
 info="http://"
 description="JayTv22 Plus Gold"
 
+################ Kodi 22 Builds ################
 ################ Kodi 21 Builds ################
 
 name="JayTv Plus Gold lite"
@@ -72,14 +73,15 @@ adult="No"
 info=""
 description=Thunderv3 24"
 
-############### Kodi 20 Builds ###############
+################ Kodi 21 Builds ################
+################ Kodi 20 Builds ################
 
 name="MC-Minions"
 version="20"
 url="https://www.dropbox.com/scl/fi/f2yj6e9nnyozg90ja19ya/MC-Minions.zip?rlkey=ki43l5nnjcmes94c0vzjhqdd9&st=e1ctpnrz&dl=1"
 minor=""
 gui="http://"
-kodi="20.0"
+kodi="20.5"
 theme="https://thunderv3.github.io/Jaytvplus/MC-Minions.png"
 icon="https://thunderv3.github.io/Jaytvplus/MC-Minions.png"
 fanart="https://thunderv3.github.io/Jaytvplus/MC-Minions.png"
@@ -88,5 +90,6 @@ adult="No"
 info=""
 description=Thunderv3 24"
 
-############### Kodi Builds ###############
+################ Kodi 20 Builds ################
+
 
