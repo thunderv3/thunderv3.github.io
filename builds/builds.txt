@@ -100,11 +100,10 @@ adult="No"
 info=""
 description=Thunderv3 24"
 
-
 ################ Kodi 20 Builds ################
 
 name="jaytvplus20.0"
-version="1.0"
+version="0.1"
 url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
 minor="http://"
 gui="http://"
@@ -132,34 +131,19 @@ info="http://"
 description="JayTV premium20"
 
 name="jaytvplus20.2"
-version="1.0"
+version="2.0"
 url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
 minor="http://"
 gui="http://"
-kodi="20.2"
+kodi="20.5"
 theme="http://"
 icon="https://thunderv3.github.io/build/jaytv.jpg"
 fanart="https://thunderv3.github.io/build/jaytv.jpg"
 preview="http://"
 adult="No"
 info="http://"
-description="JayTV premium20"
+description="JayTV premium"
 
-################ Kodi 19 Builds ################
-
-name="jaytvplus19"
-version="1.0"
-url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
-minor="http://"
-gui="http://"
-kodi="19.3"
-theme="http://"
-icon="https://thunderv3.github.io/build/jaytv.jpg"
-fanart="https://thunderv3.github.io/build/jaytv.jpg"
-preview="http://"
-adult="No"
-info="http://"
-description="JayTV premium20"
-
+################ Kodi  Builds ################
 
 
