@@ -102,20 +102,6 @@ description=Thunderv3 24"
 
 ################ Kodi 20 Builds ################
 
-name="jaytvplus20.0"
-version="0.1"
-url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
-minor="http://"
-gui="http://"
-kodi="20.2"
-theme="http://"
-icon="https://thunderv3.github.io/build/jaytv.jpg"
-fanart="https://thunderv3.github.io/build/jaytv.jpg"
-preview="http://"
-adult="No"
-info="http://"
-description="JayTV Plus20"
-
 name="jaytvplus20.1"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
@@ -143,6 +129,20 @@ preview="http://"
 adult="No"
 info="http://"
 description="JayTV premium"
+
+name="jaytvplus20.3"
+version="3.0"
+url="https://www.dropbox.com/scl/fi/9jq4x09cz4uvrobxz2ca7/jaytvplusgoldquelle.zip?rlkey=nwgnini8jmim25d92srsy6qfb&dl=1"
+minor="http://"
+gui="http://"
+kodi="20.5"
+theme="http://"
+icon="https://thunderv3.github.io/build/jaytv.jpg"
+fanart="https://thunderv3.github.io/build/jaytv.jpg"
+preview="http://"
+adult="No"
+info="http://"
+description="JayTV premium3"
 
 ################ Kodi  Builds ################
 
