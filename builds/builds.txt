@@ -30,6 +30,8 @@ adult="No"
 info="http://"
 description="JayTv Plus Gold lite"
 
+################ Kodi 21 Builds ################
+
 name="Kodibuilds_Fur_Anfanger"
 version="0.5"
 url="https://archive.org/download/kodibuilds-fur-anfanger_202409/"
@@ -42,7 +44,9 @@ fanart="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
 preview=""
 adult="No"
 info="http://"
-description=Kodibuilds Fur Anfanger"
+description="Kodibuilds Fur Anfanger"
+
+################ Kodi 21 Builds ################
 
 name="MC-Minions"
 version="0.4"
@@ -56,7 +60,7 @@ fanart="https://thunderv3.github.io/Jaytvplus/MC-Minions.png"
 preview=""
 adult="No"
 info="http://"
-description=Thunderv3 24"
+description="Thunderv3 24"
 
 ################ Kodi 20 Builds ################
 
@@ -72,7 +76,7 @@ fanart="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
 preview=""
 adult="No"
 info="http://"
-description=Kodibuilds Fur Anfanger"
+description="Kodibuilds Fur Anfanger"
 
-
+################ Kodi 20 Builds ################
 
