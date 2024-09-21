@@ -75,6 +75,19 @@ adult="No"
 info=""
 description=Thunderv3 24"
 
+name="Kodibuilds Für Anfänger"
+version="0.1"
+url="https://archive.org/download/kodibuilds-fur-anfanger_202409/Kodibuilds%20f%C3%BCr%20Anf%C3%A4nger.zip"
+minor=""
+gui="http://"
+kodi="21.0"
+theme="https://github.com/thunderv3/thunderv3.github.io/blob/main/Jaytvplus/KfA.jpg"
+icon="https://github.com/thunderv3/thunderv3.github.io/blob/main/Jaytvplus/KfA.jpg"
+fanart="https://github.com/thunderv3/thunderv3.github.io/blob/main/Jaytvplus/KfA.jpg"
+preview=""
+adult="No"
+info="Kodibuilds Für Anfänger"
+description=Kodibuilds Für Anfänger"
 
 ################ Kodi 20 Builds ################
 
