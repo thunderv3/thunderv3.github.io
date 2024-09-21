@@ -1,6 +1,3 @@
-################ Kodi 22 Builds ################
-
-################ Kodi 21 Builds ################
 
 name="JayTv Plus Gold lite"
 version="1.0.6"
@@ -58,7 +55,7 @@ adult="No"
 info="http://"
 description=Kodibuilds Für Anfänger"
 
-################ Kodi 20 Builds ################
+
 
 
 
