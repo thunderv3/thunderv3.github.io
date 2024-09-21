@@ -1,23 +1,6 @@
 ################ Kodi 22 Builds ################
 
-
-name="JayTv Plus Piers"
-version="9.0"
-url=""
-minor="http://"
-gui="http://"
-kodi="22.0"
-theme="http://"
-icon="https://thunderv3.github.io/builds/jaytv.jpg"
-fanart="https://thunderv3.github.io/builds/jaytv.jpg"
-preview=""
-adult="No"
-info="http://"
-description="JayTv22 Plus Gold"
-
-
 ################ Kodi 21 Builds ################
-
 
 name="JayTv Plus Gold lite"
 version="1.0.6"
@@ -61,9 +44,7 @@ adult="No"
 info="http://"
 description=Thunderv3 24"
 
-################ Kodi 21 UserBuilds ################
-
-name="Kodibuilds Für Anfänger"
+name="Kodibuilds_Für_Anfänger"
 version="0.5"
 url="https://archive.org/download/kodibuilds-fur-anfanger_202409/Kodibuilds%20f%C3%BCr%20Anf%C3%A4nger.zip"
 minor=""
@@ -80,33 +61,5 @@ description=Kodibuilds Für Anfänger"
 ################ Kodi 20 Builds ################
 
 
-name="JayTv Plus Piers"
-version="2.0"
-url=""
-minor="http://"
-gui="http://"
-kodi="20.0"
-theme="http://"
-icon="https://thunderv3.github.io/builds/jaytv.jpg"
-fanart="https://thunderv3.github.io/builds/jaytv.jpg"
-preview=""
-adult="No"
-info="http://"
-description="JayTv20 Plus Gold"
-
-
-name="JayTv Plus Piers2"
-version="2.1"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
-minor="http://"
-gui="http://"
-kodi="20.0"
-theme="http://"
-icon="https://thunderv3.github.io/builds/jaytv.jpg"
-fanart="https://thunderv3.github.io/builds/jaytv.jpg"
-preview=""
-adult="No"
-info="http://"
-description="JayTv20 Plus Gold1"
 
 
