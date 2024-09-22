@@ -32,9 +32,25 @@ description="JayTv Plus Gold lite"
 
 ################ Kodi 21 Builds ################
 
+name="MC Jay-thek Build"
+version="1.6"
+url="https://www.dropbox.com/scl/fi/ucosjsk2j6o5fm4smf5qr/MC-Jay-thek.zip?rlkey=ttgu0oghkimp18sgg56rh7a8w&st=eljb65ni&dl=1"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="https://thunderv3.github.io/Jaytvplus/mcjaythek.jpg"
+icon="https://thunderv3.github.io/Jaytvplus/mcjaythek.jpg"
+fanart="https://thunderv3.github.io/Jaytvplus/mcjaythek.jpg"
+preview=""
+adult="No"
+info="http://"
+description="Thunderv3 24"
+
+################ Kodi 21 Builds ################
+
 name="Kodibuilds_Fur_Anfanger"
 version="0.5"
-url="https://archive.org/download/kodibuilds-fur-anfanger_202409/"
+url="https://archive.org/download/kodibuilds-fur-anfanger_202409/Kodibuilds%20f%C3%BCr%20Anf%C3%A4nger.zip"
 minor=""
 gui="http://"
 kodi="21.0"
