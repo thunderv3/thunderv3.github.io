@@ -48,7 +48,7 @@ description="Thunderv3 24"
 
 ################ Kodi 21 Builds ################
 
-name="Kodibuilds_Fur_Anfanger"
+name="Myiagi Build"
 version="0.5"
 url="https://archive.org/download/kodibuilds-fur-anfanger_202409/Kodibuilds%20f%C3%BCr%20Anf%C3%A4nger.zip"
 minor=""
@@ -60,7 +60,7 @@ fanart="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
 preview=""
 adult="No"
 info="http://"
-description="Kodibuilds Fur Anfanger"
+description="Myiagi Build"
 
 ################ Kodi 21 Builds ################
 
