@@ -1,43 +1,44 @@
 ################ Kodi 22 Builds ################
 
+#
 
 ################ Kodi 21 Builds ################
 
 name="JayTv Plus Gold Lite"
 version="1.0.6"
 url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
-minor="http://"
-gui="http://"
+minor=""
+gui=""
 kodi="21.0"
 theme="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
 icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
 fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
 preview=""
 adult="No"
-info="http://"
+info=""
 description="JayTv Plus Gold lite"
 
-################ Kodi 21 Builds ################
+#
 
 name="MC Jay-thek Build"
 version="1.6"
 url="https://www.dropbox.com/scl/fi/ucosjsk2j6o5fm4smf5qr/MC-Jay-thek.zip?rlkey=ttgu0oghkimp18sgg56rh7a8w&st=eljb65ni&dl=1"
-minor="http://"
-gui="http://"
+minor=""
+gui=""
 kodi="21.0"
 theme="https://thunderv3.github.io/Jaytvplus/mcjaythek.jpg"
 icon="https://thunderv3.github.io/Jaytvplus/mcjaythek.jpg"
 fanart="https://thunderv3.github.io/Jaytvplus/mcjaythek.jpg"
 preview=""
 adult="No"
-info="http://"
+info=""
 description="Thunderv3 24"
 
-################ Kodi 21 Builds ################
+#
 
-name="Myiagi Build"
+name="MCJayTvBuild"
 version="0.5"
-url="https://archive.org/download/kodibuilds-fur-anfanger_202409/Kodibuilds%20f%C3%BCr%20Anf%C3%A4nger.zip"
+url="https://www.dropbox.com/scl/fi/n3l457q6bznt22y5xtd3k/MCJayTvBuild.zip?rlkey=15p8n5zw0catynuzhl594ympo&st=6ab1yrw7&dl=1"
 minor=""
 gui="http://"
 kodi="21.0"
@@ -49,9 +50,11 @@ adult="No"
 info="http://"
 description="Myiagi Build"
 
+#
+
 name="MC-Minions"
 version="0.4"
-url="https://www.dropbox.com/scl/fi/f2yj6e9nnyozg90ja19ya/MC-Minions.zip?rlkey=ki43l5nnjcmes94c0vzjhqdd9&st=a4n0ky8k&dl=1"
+url=""
 minor=""
 gui="http://"
 kodi="21.0"
@@ -62,6 +65,9 @@ preview=""
 adult="No"
 info="https://t.me/+l131Q5oPQ100ZmQy/"
 description="MC-Minions"
+
+#
+
 
 ################ Kodi 20 Builds ################
 
