@@ -32,13 +32,13 @@ fanart="https://thunderv3.github.io/Jaytvplus/mcjaythek.jpg"
 preview=""
 adult="No"
 info=""
-description="Thunderv3 24"
+description="Thunderv3jaythek"
 
 #
 
 name="MC Jay-thek"
 version="1.6"
-url="https://www.dropbox.com/scl/fi/ucosjsk2j6o5fm4smf5qr/MC-Jay-thek.zip?rlkey=ttgu0oghkimp18sgg56rh7a8w&st=eljb65ni&dl=1"
+url="https://www.dropbox.com/scl/fi/n3l457q6bznt22y5xtd3k/MCJayTvBuild.zip?rlkey=15p8n5zw0catynuzhl594ympo&st=6ab1yrw7&dl=1"
 minor=""
 gui=""
 kodi="21.0"
@@ -48,7 +48,7 @@ fanart="https://thunderv3.github.io/Jaytvplus/mcjaythek.jpg"
 preview=""
 adult="No"
 info=""
-description="Thunderv3"
+description="Thunderv3jaytv"
 
 #
 
