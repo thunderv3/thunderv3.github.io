@@ -66,7 +66,7 @@ description="Myiagi Build"
 
 name="MC-Minions"
 version="0.4"
-url="https://www.dropbox.com/scl/fi/f2yj6e9nnyozg90ja19ya/MC-Minions.zip?rlkey=ki43l5nnjcmes94c0vzjhqdd9&st=e1ctpnrz&dl=1"
+url=""
 minor=""
 gui="http://"
 kodi="21.0"
