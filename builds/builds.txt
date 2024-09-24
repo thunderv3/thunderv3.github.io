@@ -1,18 +1,5 @@
 ################ Kodi 22 Builds ################
 
-name="JayTv Plus Gold Lite 22"
-version="1.0.6"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
-minor="http://"
-gui="http://"
-kodi="22.0"
-theme="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-preview=""
-adult="No"
-info="http://"
-description="JayTv Plus Gold lite 22"
 
 ################ Kodi 21 Builds ################
 
@@ -62,25 +49,9 @@ adult="No"
 info="http://"
 description="Myiagi Build"
 
-name="Myiagi UserBuild"
-version="0.5"
-url="https://archive.org/download/kodibuilds-fur-anfanger_202409/Kodibuilds%20f%C3%BCr%20Anf%C3%A4nger.zip"
-minor=""
-gui="http://"
-kodi="21.0"
-theme="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
-icon="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
-preview=""
-adult="No"
-info="http://t.me/"
-description="Myiagi Build"
-
-################ Kodi 21 Builds ################
-
 name="MC-Minions"
 version="0.4"
-url=""
+url="https://www.dropbox.com/scl/fi/f2yj6e9nnyozg90ja19ya/MC-Minions.zip?rlkey=ki43l5nnjcmes94c0vzjhqdd9&st=a4n0ky8k&dl=1"
 minor=""
 gui="http://"
 kodi="21.0"
@@ -89,24 +60,24 @@ icon="https://thunderv3.github.io/Jaytvplus/MC-Minions.png"
 fanart="https://thunderv3.github.io/Jaytvplus/MC-Minions.png"
 preview=""
 adult="No"
-info="http://"
-description="Thunderv3 24"
+info="https://t.me/+l131Q5oPQ100ZmQy/"
+description="MC-Minions"
 
 ################ Kodi 20 Builds ################
 
-name="Myiagi"
-version="0.5"
-url="https://archive.org/download/kodibuilds-fur-anfanger_202409/"
+name="Platzhalter"
+version="0.0"
+url=""
 minor=""
 gui="http://"
 kodi="20.0"
-theme="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
-icon="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
+theme="https://thunderv3.github.io/Jaytvplus/800x200.jpg"
+icon="https://thunderv3.github.io/Jaytvplus/800x200.jpg"
+fanart="https://thunderv3.github.io/Jaytvplus/800x200.jpg"
 preview=""
 adult="No"
 info="http://"
-description="Kodibuilds Fur Anfanger"
+description=""
 
 ################ Kodi 20 Builds ################
 
