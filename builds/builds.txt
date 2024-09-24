@@ -20,6 +20,38 @@ description="JayTv Plus Gold lite"
 
 #
 
+name="JayTv Test"
+version="1.0.6"
+url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
+minor=""
+gui=""
+kodi="21.0"
+theme="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+preview=""
+adult="No"
+info=""
+description="JayTv"
+
+#
+
+name="JayTv test2"
+version="1.0.6"
+url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
+minor=""
+gui=""
+kodi="21.0"
+theme="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+preview=""
+adult="No"
+info=""
+description="JayTv"
+
+#
+
 name="MC Jay-thek Build"
 version="1.6"
 url="https://www.dropbox.com/scl/fi/ucosjsk2j6o5fm4smf5qr/MC-Jay-thek.zip?rlkey=ttgu0oghkimp18sgg56rh7a8w&st=eljb65ni&dl=1"
