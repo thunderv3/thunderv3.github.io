@@ -62,6 +62,20 @@ adult="No"
 info="http://"
 description="Myiagi Build"
 
+name="Myiagi UserBuild"
+version="0.5"
+url="https://archive.org/download/kodibuilds-fur-anfanger_202409/Kodibuilds%20f%C3%BCr%20Anf%C3%A4nger.zip"
+minor=""
+gui="http://"
+kodi="21.0"
+theme="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
+icon="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
+fanart="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
+preview=""
+adult="No"
+info="http://t.me/"
+description="Myiagi Build"
+
 ################ Kodi 21 Builds ################
 
 name="MC-Minions"
@@ -80,7 +94,7 @@ description="Thunderv3 24"
 
 ################ Kodi 20 Builds ################
 
-name="Kodibuilds_Fur_Anfanger"
+name="Myiagi"
 version="0.5"
 url="https://archive.org/download/kodibuilds-fur-anfanger_202409/"
 minor=""
