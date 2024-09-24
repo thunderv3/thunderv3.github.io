@@ -18,84 +18,28 @@ adult="No"
 info=""
 description="JayTv Plus Gold lite"
 
-
 name="JayTv"
 version="1.0.6"
 url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
-minor=""
-gui=""
 kodi="21.0"
 theme="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
 icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
 fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-preview=""
 adult="No"
-info=""
 description="JayTv Plus Gold lite"
-
 
 name="JayTv P"
 version="1.0.6"
 url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
-minor=""
-gui=""
 kodi="21.0"
 theme="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
 icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
 fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-preview=""
 adult="No"
-info=""
 description="JayTv Plus Gold lite"
-
-
-name="JayTv P G"
-version="1.0.6"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
-minor=""
-gui=""
-kodi="21.0"
-theme="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-preview=""
-adult="No"
-info=""
-description="JayTv Plus Gold lite"
-
-
-name="JayTv P G L"
-version="1.0.6"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
-minor=""
-gui=""
-kodi="21.0"
-theme="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-preview=""
-adult="No"
-info=""
-description="JayTv Plus Gold lite"
-
-
 
 
 ################ Kodi 20 Builds ################
 
-name="Platzhalter"
-version="0.0"
-url=""
-minor=""
-gui="http://"
-kodi="20.0"
-theme="https://thunderv3.github.io/Jaytvplus/800x200.jpg"
-icon="https://thunderv3.github.io/Jaytvplus/800x200.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/800x200.jpg"
-preview=""
-adult="No"
-info="http://"
-description=""
-
-################ Kodi 20 Builds ################
+#
 
