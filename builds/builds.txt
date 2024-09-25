@@ -58,7 +58,7 @@ adult="No"
 info="http://"
 description="Thunderv3"
 
-name="Costum-Build"
+name="Minion-Build"
 version="1.2"
 url="https://www.dropbox.com/scl/fi/f2yj6e9nnyozg90ja19ya/MC-Minions.zip?rlkey=ki43l5nnjcmes94c0vzjhqdd9&st=4eqhi1ne&dl=1"
 minor="http://"
