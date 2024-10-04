@@ -2,10 +2,10 @@
   "addons": [
     {
       "name": "Repository",
-      "type": "addon",
-      "section": false,
-      "plugin": "repository.thunderv3",
-      "url": "https://Thunderv3.github.io/repos/repository.thunderv3/",
+      "type": "repo",
+      "section": true,
+      "plugin": "",
+      "url": "https://",
       "repository": "repository.thunderv3",
       "repositoryxml": "https://Thunderv3.github.io/repos/repository.thunderv3/addon.xml",
       "repositoryurl": "https://Thunderv3.github.io/repos/repository.thunderv3/",
