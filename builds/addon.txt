@@ -14,17 +14,17 @@
       "description": "The official YouTube add-on."
     },
     {
-      "name": "Spotify w/ Repository",
+      "name": "Repository",
       "type": "addon",
       "section": false,
-      "plugin": "plugin.audio.spotify",
-      "url": "https://kodi-community-addons.github.io/repository.marcelveldt/plugin.audio.spotify/",
-      "repository": "repository.marcelveldt",
+      "plugin": "repository.thunderv3",
+      "url": "https://Thunderv3.github.io/repos/repository.thunderv3/repository.thunderv3-3.3.zip",
+      "repository": "repository.thunderv3",
       "repositoryxml": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/addons.xml",
       "repositoryurl": "https://kodi-community-addons.github.io/repository.marcelveldt/repository.marcelveldt/",
       "icon": "",
       "adult": false,
-      "description": "The official Spotify add-on."
+      "description": "The add-on."
     },
   {
       "name": "Repository",
