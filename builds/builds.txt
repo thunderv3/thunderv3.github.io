@@ -2,7 +2,7 @@
 
 name="JayTv plus Gold 22"
 version="1.0.0"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
+url="https://www.googleapis.com/drive/v3/files/1oLoTBMItKrLGj2wlBavcovKo6ilMjeYi?alt=media&key=AIzaSyCrQ4YQL4W8NZCnziXqySU8hDozo_x6UEE"
 minor=""
 gui=""
 kodi="22.0"
