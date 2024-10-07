@@ -126,6 +126,22 @@ adult="No"
 info="http://"
 description="Alex Mahone Build"
 
+#######
+
+name="Myiagi Build userCostum"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/jqync065leurhfibv61cw/kodi_backup_myagi_202408152014.zip?rlkey=g0ou9p1hoqx67z0bifpvgzwv9&st=l5g1gfb3&dl=1"
+minor=""
+gui=""
+kodi="21.0"
+theme="https://"
+icon="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
+fanart="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
+preview=""
+adult="No"
+info="http://"
+description="Alex Mahone Build"
+
 ################ Kodi 20 Builds ################
 
 name="JayTv Plus Gold Lite"
