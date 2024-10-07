@@ -14,6 +14,8 @@ adult="No"
 info=""
 description="JayTv Plus Gold 22"
 
+###########
+
 name="JayTv Plus Gold Lite"
 version="1.0.6"
 url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
@@ -44,6 +46,8 @@ adult="No"
 info="https://t.ly/ZPNfL"
 description="JayTv Plus Gold lite"
 
+##########
+
 name="MC JayTv Build"
 version="1.5"
 url="https://www.dropbox.com/scl/fi/n3l457q6bznt22y5xtd3k/MCJayTvBuild.zip?rlkey=15p8n5zw0catynuzhl594ympo&st=hfvomice&dl=1"
@@ -57,6 +61,8 @@ preview="https://"
 adult="No"
 info="https://t.ly/ZPNfL"
 description="Thunderv3"
+
+########
 
 name="MC Jay-thek Build"
 version="1.6"
@@ -72,6 +78,8 @@ adult="No"
 info="https://t.ly/ZPNfL"
 description="Thunderv3"
 
+#######
+
 name="Minion-Build"
 version="1.2"
 url="https://www.dropbox.com/scl/fi/f2yj6e9nnyozg90ja19ya/MC-Minions.zip?rlkey=ki43l5nnjcmes94c0vzjhqdd9&st=4eqhi1ne&dl=1"
@@ -86,6 +94,8 @@ adult="No"
 info="https://t.ly"
 description="Thunderv3 MC-Minion"
 
+########
+
 name="testoffline"
 version="1.0"
 url="https://www.googleapis.com/drive/v3/files/1oLoTBMItKrLGj2wlBavcovKo6ilMjeYi?alt=media&key=AIzaSyCrQ4YQL4W8NZCnziXqySU8hDozo_x6UEE"
@@ -93,12 +103,14 @@ minor="http://"
 gui="http://"
 kodi="21.0"
 theme="https://"
-icon="https://thunderv3.github.io/Jaytvplus/MC-Minion.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/MC-Minion.jpg"
+icon="https://"
+fanart="https://"
 preview="https://"
 adult="No"
 info="https://t.ly"
 description="Test"
+
+#########
 
 name="Myiagi Build Costum"
 version="1.0"
@@ -114,7 +126,6 @@ adult="No"
 info="http://"
 description="Alex Mahone Build"
 
-
 ################ Kodi 20 Builds ################
 
 name="JayTv Plus Gold Lite"
@@ -129,6 +140,22 @@ fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
 preview=""
 adult="No"
 info="https://t.ly/ZPNfL/"
-description="JayTv Plus Gold lite"
+description="JayTv Plus 20"
+
+###########
+
+name="JayTv Plus"
+version="1.0.7"
+url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
+minor=""
+gui=""
+kodi="20.0"
+theme="https://"
+icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+preview=""
+adult="No"
+info="https://t.ly/ZPNfL/"
+description="JayTv Plus 20"
 
 ################ Kodi Builds ################
