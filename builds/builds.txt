@@ -1,34 +1,18 @@
 ################ Kodi 22 Builds ################
 
-name="JayTv plus Gold 22"
-version="1.0.0"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
+name="Piers 22"
+version="22"
+url="https://"
 minor=""
 gui=""
 kodi="22.0"
 theme="https://"
-icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+icon="https://"
+fanart="https://"
 preview=""
 adult="No"
 info=""
-description="JayTv Plus Gold 22"
-
-###########
-
-name="JayTv Plus Gold Lite"
-version="1.0.6"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
-minor=""
-gui=""
-kodi="22.0"
-theme="https://"
-icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-preview=""
-adult="No"
-info="https://t.ly/ZPNfL"
-description="JayTv Plus Gold lite"
+description="Piers 22"
 
 ################ Kodi 21 Builds ################
 
@@ -97,7 +81,7 @@ description="Thunderv3 MC-Minion"
 ########
 
 name="testoffline"
-version="1.0"
+version="1.0.0"
 url="https://www.googleapis.com/drive/v3/files/1oLoTBMItKrLGj2wlBavcovKo6ilMjeYi?alt=media&key=AIzaSyCrQ4YQL4W8NZCnziXqySU8hDozo_x6UEE"
 minor="http://"
 gui="http://"
@@ -107,7 +91,7 @@ icon="https://"
 fanart="https://"
 preview="https://"
 adult="No"
-info="https://t.ly"
+info="https://"
 description="Test"
 
 #########
@@ -128,35 +112,35 @@ description="Alex Mahone Build"
 
 #######
 
-name="Myiagi Build userCostum"
-version="1.0"
-url="https://www.dropbox.com/scl/fi/jqync065leurhfibv61cw/kodi_backup_myagi_202408152014.zip?rlkey=g0ou9p1hoqx67z0bifpvgzwv9&st=l5g1gfb3&dl=1"
+name="Omega 21"
+version="0"
+url="https://"
 minor=""
 gui=""
 kodi="21.0"
 theme="https://"
-icon="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/KfA.jpg"
+icon="https://"
+fanart="https://"
 preview=""
 adult="No"
 info="http://"
-description="Alex Mahone Build"
+description=""
 
 ################ Kodi 20 Builds ################
 
-name="JayTv Plus Gold Lite"
-version="1.0.6"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
+name="Nexus 20"
+version="20"
+url="https://"
 minor=""
 gui=""
 kodi="20.0"
 theme="https://"
-icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
+icon="https://"
+fanart="https://"
 preview=""
 adult="No"
 info="https://t.ly/ZPNfL/"
-description="JayTv Plus 20"
+description="Nexus 20"
 
 ###########
 
