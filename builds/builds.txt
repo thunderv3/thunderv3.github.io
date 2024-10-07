@@ -144,18 +144,4 @@ description="JayTv Plus 20"
 
 ###########
 
-name="JayTv Plus"
-version="1.0.7"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
-minor=""
-gui=""
-kodi="20.0"
-theme="https://"
-icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg"
-preview=""
-adult="No"
-info="https://t.ly/ZPNfL/"
-description="JayTv Plus 20"
-
 ################ Kodi Builds ################
