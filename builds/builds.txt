@@ -102,7 +102,7 @@ description="Alex Mahone Build"
 
 name="donotuse"
 version="1.0.0"
-url="https://drive.usercontent.google.com/download?id=1oLoTBMItKrLGj2wlBavcovKo6ilMjeYi&export=download&authuser=1&confirm=t&uuid=82064436-1329-4b89-8e61-312049856b19&at=AN_67v3n05Mr2E4Rt0L9aqj2n-bL:1728313880017"
+url="https://drive.usercontent.google.com/download?id=1oLoTBMItKrLGj2wlBavcovKo6ilMjeYi&export=download&authuser=1"
 minor="http://"
 gui="http://"
 kodi="21.0"
