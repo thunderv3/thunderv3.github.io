@@ -1,7 +1,7 @@
 ################ Kodi 33 Builds ################
 
 name="P 33"
-version="21.5"
+version="21.6"
 url="https://"
 minor="https://"
 gui="https://"
