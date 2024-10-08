@@ -1,3 +1,19 @@
+################ Kodi 33 Builds ################
+
+name="P 33"
+version="21.5"
+url="https://"
+minor="https://"
+gui="https://"
+kodi="21.5"
+theme="https://"
+icon="https://"
+fanart="https://"
+preview="https://"
+adult="No"
+info="https://"
+description="P 33"
+
 ################ Kodi 22 Builds ################
 
 name="Piers 22"
