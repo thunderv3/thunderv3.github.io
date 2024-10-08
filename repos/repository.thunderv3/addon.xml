@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.thunderv3" name="Thunderv3 Repo" provider-name="Thunderv3" version="3.3">
+<addon id="repository.thunderv3" name="Thunderv3 Repo" provider-name="Thunderv3" version="3.5">
 	<extension point="xbmc.addon.repository" name="Thunderv3 Repo">
 		<dir>
 			<info compressed="false">https://thunderv3.github.io/repos/addons.xml</info>
