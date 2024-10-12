@@ -19,7 +19,7 @@ description="Piers 22"
 
 name="JayTv Plus Gold Lite"
 version="1.0.6"
-url="https://www.dropbox.com/scl/fi/5602c8f2due6rkcw56990/JayTv-Plus-Gold-Lite-Quelle.zip?rlkey=mf96cyrm6ysik0hxorn90zg8l&st=gxgttnjv&dl=1"
+url="https://shorturl.at/fcMZ6"
 minor="http://"
 gui="http://"
 kodi="21.0"
