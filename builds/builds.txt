@@ -100,7 +100,7 @@ description="Test"
 
 ########
 
-name="USER Costum Builds"
+name="-----#Sparte# User Costum Builds #Sparte#-----"
 version="0.0.0"
 url="https://"
 minor="http://"
@@ -131,20 +131,6 @@ info="http://"
 description="Alex Mahone Build"
 
 #######
-
-name="Omega 21"
-version="21"
-url="https://"
-minor="https://"
-gui="https://"
-kodi="21.0"
-theme="https://"
-icon="https://"
-fanart="https://"
-preview="https://"
-adult="No"
-info="http://"
-description="Omega 21"
 
 ################ Kodi 20 Builds ################
 
