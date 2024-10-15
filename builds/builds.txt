@@ -100,7 +100,7 @@ description="Test"
 
 ########
 
-name="-----#Sparte# User Costum Builds #Sparte#-----"
+name="(v0) -----#Sparte# User Costum Builds #Sparte#-----"
 version="0"
 url="https://"
 minor="http://"
@@ -130,7 +130,25 @@ adult="No"
 info="http://"
 description="Alex Mahone Build"
 
-#######
+########
+
+name="(v0) -----#Sparte# User Costum Builds #Sparte#-----"
+version="0"
+url="https://"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="https://"
+icon="https://thunderv3.github.io/Jaytvplus/ucb.jpg"
+fanart="https://thunderv3.github.io/Jaytvplus/ucb.jpg"
+preview="https://"
+adult="No"
+info="https://"
+description="USER Costum Builds Telegram JayTv Plus"
+
+#########
+
+#########
 
 ################ Kodi 20 Builds ################
 
