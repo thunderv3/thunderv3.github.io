@@ -98,6 +98,24 @@ description="Test"
 
 #########
 
+########
+
+name="USER Costum Builds"
+version="0.0.0"
+url="https://"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="https://"
+icon="https://thunderv3.github.io/Jaytvplus/ucb.jpg"
+fanart="https://thunderv3.github.io/Jaytvplus/ucb.jpg"
+preview="https://"
+adult="No"
+info="https://"
+description="USER Costum Builds Telegram JayTv Plus"
+
+#########
+
 name="Myiagi Build Costum"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/jqync065leurhfibv61cw/kodi_backup_myagi_202408152014.zip?rlkey=g0ou9p1hoqx67z0bifpvgzwv9&st=l5g1gfb3&dl=1"
