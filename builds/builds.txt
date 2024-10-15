@@ -101,7 +101,7 @@ description="Test"
 ########
 
 name="-----#Sparte# User Costum Builds #Sparte#-----"
-version=""
+version="0"
 url="https://"
 minor="http://"
 gui="http://"
