@@ -1,20 +1,7 @@
 {
   "addons": [
     {
-      "name": "YouTube w/o Repository",
-      "type": "addon",
-      "section": false,
-      "plugin": "plugin.video.youtube",
-      "url": "http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/plugin.video.youtube-6.5.2.zip",
-      "repository": "",
-      "repositoryxml": "",
-      "repositoryurl": "",
-      "icon": "",
-      "adult": false,
-      "description": "The official YouTube add-on."
-    },
-    {
-      "name": "Repository",
+      "name": "Repo Thunderv3",
       "type": "addon",
       "section": false,
       "plugin": "repository.thunderv3",
@@ -26,37 +13,18 @@
       "adult": false,
       "description": "The add-on."
     },
-  {
+    {
       "name": "Repository",
       "type": "repo",
       "section": true,
       "plugin": "",
-      "url": "https://",
+      "url": "https://Thunderv3.github.io/repos/",
       "repository": "repository.thunderv3",
       "repositoryxml": "https://Thunderv3.github.io/repos/repository.thunderv3/addon.xml",
       "repositoryurl": "https://Thunderv3.github.io/repos/repository.thunderv3/",
       "icon": "",
       "adult": false,
       "description": "The official add-on."
-    },
-    {
-      "name": "Spotify w/ Repository",
-      "type": "addon",
-      "section": false,
-      "plugin": "plugin.audio.spotify",
-      "url": "https://kodi-community-addons.github.io/repository.marcelveldt/plugin.audio.spotify/",
-      "repository": "repository.marcelveldt",
-      "repositoryxml": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/addons.xml",
-      "repositoryurl": "https://kodi-community-addons.github.io/repository.marcelveldt/repository.marcelveldt/",
-      "icon": "",
-      "adult": false,
-      "description": "The official Spotify add-on."
-    },
-    {
-      "name": "Example Section",
-      "section": true,
-      "url": "url.to.json",
-      "description": "An Example Section."
     }
   ]
 }
