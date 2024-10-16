@@ -17,14 +17,13 @@
       "name": "Repository",
       "type": "repo",
       "section": true,
-      "plugin": "",
-      "url": "https://Thunderv3.github.io/repos/",
+      "url": "https://thunderv3.github.io/repos/index.html/",
       "repository": "repository.thunderv3",
-      "repositoryxml": "https://Thunderv3.github.io/repos/repository.thunderv3/addon.xml",
-      "repositoryurl": "https://Thunderv3.github.io/repos/repository.thunderv3/",
+      "repositoryxml": "https://thunderv3.github.io/repos/addons.xml",
+      "repositoryurl": "https://thunderv3.github.io/repos/",
       "icon": "",
       "adult": false,
-      "description": "The official add-on."
+      "description": "repo thunderv3 add-on."
     }
   ]
 }
