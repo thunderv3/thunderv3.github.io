@@ -84,7 +84,7 @@ description="Thunderv3 MC-Minion"
 
 name="testoffline"
 version="1.0.0"
-url="https://www.googleapis.com/drive/v3/files/1CFmJPmTzv9gKIkAbJPUs7MUifULmnjWL?alt=media&key=AIzaSyCrQ4YQL4W8NZCnziXqySU8hDozo_x6UEE"
+url="https://www.googleapis.com/drive/v3/files/1oLoTBMItKrLGj2wlBavcovKo6ilMjeYi?alt=media&key=AIzaSyCrQ4YQL4W8NZCnziXqySU8hDozo_x6UEE"
 minor="http://"
 gui="http://"
 kodi="21.0"
