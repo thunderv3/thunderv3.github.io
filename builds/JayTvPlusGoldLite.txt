@@ -1,0 +1,6 @@
+name="JayTv Plus Gold Lite" 
+url="https://www.dropbox.com/scl/fi/yg7qyncoiipoo27wqi8p3/JayTv-Plus-Gold-Lite-theme.zip?rlkey=u75ne2nlz0udvsuuv20lc3oru&st=sahz35mr&dl=1" 
+icon="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg" 
+fanart="https://thunderv3.github.io/Jaytvplus/jaytvplusgold.jpg" 
+adult="no" 
+description="JayTv Plus Gold Lite"

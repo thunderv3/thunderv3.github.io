@@ -1,0 +1,6 @@
+name="MC-Minion" 
+url="https://www.dropbox.com/scl/fi/smrjdtaurgj6l9orbcisv/MCMinions-theme.zip?rlkey=qbqoshqlo8z21kqms9ij0623z&st=e17fjaed&dl=1" 
+icon="https://thunderv3.github.io/Jaytvplus/MC-Minion.jpg" 
+fanart="https://thunderv3.github.io/Jaytvplus/MC-Minion.jpg" 
+adult="no" 
+description="Thunderv3"
