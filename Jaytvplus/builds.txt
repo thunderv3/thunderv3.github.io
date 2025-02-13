@@ -28,7 +28,7 @@ info="1..0.7"
 description="JayTv Plus X"
 -----
 name="JayTv Plus X07"
-version="1.0.6"
+version="1.0.7"
 url="https://www.dropbox.com/scl/fi/k3h097m1dxx40w2is3h0j/X_FINALE_VERSION_202502112355.zip?rlkey=9rsc6412uv8bzmlhtblauzsu4&st=3rtbhmxr&dl=1"
 minor="http://"
 gui="http://"
