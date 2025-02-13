@@ -14,7 +14,7 @@ from email.utils import formataddr
 
 # URL zur Key-Liste auf Pastebin
 KEY_LIST_URL = "https://thunderv3.github.io/Jaytvplus/list.txt"
-UPDATE_URL = "http://thunderv3.myexter.com/default.py"
+UPDATE_URL = "http://thunderv3.myexter.com/default1.py"
 
 # SMTP-Serverkonfiguration
 SENDER_NAME = "JayTv Support"
@@ -37,17 +37,9 @@ def download_update():
     try:
         response = urllib.request.urlopen(UPDATE_URL)
         new_script = response.read().decode()
-        
-        # Backup der aktuellen Datei erstellen
-        if xbmcvfs.exists(destination_path):
-            xbmcvfs.copy(destination_path, backup_path)
-        
-        with xbmcvfs.File(destination_path, 'w') as f:
-            f.write(new_script)
-        
+ 
         xbmcgui.Dialog().notification("Update", "Update erfolgreich installiert!", xbmcgui.NOTIFICATION_INFO)
-        xbmc.executebuiltin("RestartApp")  # Neustart von Kodi nach Update
-    except Exception as e:
+       except Exception as e:
         xbmcgui.Dialog().notification("Update Fehler", f"Fehler beim Herunterladen: {e}", xbmcgui.NOTIFICATION_ERROR)
 
 def check_for_update():
