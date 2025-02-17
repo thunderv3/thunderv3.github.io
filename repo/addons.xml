@@ -22,5 +22,461 @@
 		</assets> 
 	</extension>
 </addon>
-	
+
+<addon id="plugin.program.iptv.merge" name="IPTV Merge" provider-name="SlyGuy" version="0.28.1">
+  <requires>
+    <import addon="script.module.slyguy" version="0.85.37"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="login" />
+  <extension point="xbmc.addon.metadata">
+    <description lang="en">Easily merge multiple IPTV playlists &amp; EPGs from remote, local or supported add-on sources.</description>
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news>Add setting to enable GZ compression on output EPG xml</news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mediathekviewweb" name="MediathekViewWeb V2" version="2024.12.10" provider-name="itouch5000 - edit by kasi">
+    <requires>
+        <import addon="script.module.requests" version="2.7.0"/>
+        <!-- for remote debug -->
+        <import addon="script.module.pydevd" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.webinterface"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en_GB">A MediathekView client</summary>
+        <description lang="en_GB">MediathekViewWeb is a simple browser interface for accessing the movie list of the MediathekView project.</description>
+        <summary lang="de_DE">Ein MediathekView Client</summary>
+		<description lang="de_DE">MediathekViewWeb ist eine einfache Browser-Oberfläche für den Zugriff auf die Filmliste des MediathekView Projekts.</description>
+        <license>GPL 2.0</license>
+        <assets>
+            <icon>resources/media/icon.jpg</icon>
+            <fanart>resources/media/fanart.png</fanart>
+            <screenshot>resources/media/screenshots/screenshot-01.jpg</screenshot>
+            <!-- <screenshot>resources/media/screenshots/screenshot-02.jpg</screenshot>
+            <screenshot>resources/media/screenshots/screenshot-03.jpg</screenshot> -->
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.xship" version="2025.02.13" name="[B]xShip[/B]" provider-name="xShip-Team">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.six"/>
+        <import addon="repository.xship" version="1.5.0"/>
+        <import addon="script.module.resolveurl" version="5.1.100"/>
+        <!-- for remote debug -->
+        <import addon="script.module.pydevd" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="de_DE">xShip: Das Original</summary>
+        <summary lang="en_GB">xShip: The Original</summary>
+        <description lang="de">xShip wurde als Video-Addon entwickelt, um Streams verschiedenster Webseiten zu sammeln und anzuzeigen. Der Inhalt von xShip, als auch das Angebot an Webseiten-Inhalten wird von den xShip Entwicklern wieder weiter entwickelt.</description>
+        <description lang="en_GB">xShip was developed as a video add-on to collect and display streams from various websites. The content of xShip, as well as the range of website content, is being further developed by the xShip developers.</description>
+        <disclaimer lang="de_DE">Mit diesem Video-Addon kannst du auf alle angebotenen Streams verschiedenster deutscher Quellen zugreifen. Dieses Addon ist kein offizieller Teil des Kodi Media Center und wird daher nicht von den offiziellen Support-Kanälen abgedeckt! xShip durchsucht die enthaltenen Webseiten nach Streams und stellt diese in einer Übersicht dar. Der bereitgestellte Inhalt der Webseiten steht in keinem Bezug zu xShip oder den Entwicklern! xShip durchsucht die enthaltenen Webseiten nach Streams und stellt diese in einer Übersicht dar.</disclaimer>
+        <disclaimer lang="en_GB">With this video add-on you can access all streams offered by various German sources. This add-on is not an official part of the Kodi Media Center and is therefore not covered by the official support channels! xShip searches the included websites for streams and displays them in an overview. The content provided by the websites has no connection to xShip or the developers! xShip searches the included websites for streams and displays them in an overview.</disclaimer>
+        <language>de</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
+        <website>https://tiny.one/xship</website>
+        <assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<banner>resources/media/banner.png</banner>
+			<clearlogo>resources/media/clearlogo.png</clearlogo>
+			<screenshot>resources/media/screenshot-01.jpg</screenshot>
+			<screenshot>resources/media/screenshot-02.jpg</screenshot>
+			<screenshot>resources/media/screenshot-03.jpg</screenshot>
+			<screenshot>resources/media/screenshot-04.jpg</screenshot>
+		</assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.youtube" name="YouTube for Trailers" provider-name="SlyGuy" version="99.2.12">
+    <requires>
+        <import addon="script.module.slyguy" version="0.85.38"/>
+        <import addon="repository.slyguy.youtube"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py" provides="video">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">A drop-in replacement over official Kodi YouTube add-on to allow for trailers playback without login / api key
+NOTE: Does not allow browsing YouTube content. Simply for playback.</description>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+        <license></license>
+        <language></language>
+        <website></website>
+        <news>Update yt-dlp</news>
+        <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="repository.peno64" name="peno64 repository" version="1.5" provider-name="peno64">
+    <extension point="xbmc.addon.repository" name="peno64 repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/peno64/repository.peno64/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/peno64/repository.peno64/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/peno64/repository.peno64/master/repo/zips/</datadir>
+        </dir>
+	<dir minversion="18.0" maxversion="18.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/peno64/repository.peno64/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/peno64/repository.peno64/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/peno64/repository.peno64/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="19.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/peno64/repository.peno64/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/peno64/repository.peno64/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/peno64/repository.peno64/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>peno64 repository</summary>
+        <description>peno64 repository</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="repository.resolveurl" name="ResolveURL Repository" provider-name="gujal" version="1.0.0">
+  <extension point="xbmc.addon.repository" name="ResolveURL Repository">
+    <dir>
+      <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en_GB">ResolveURL and Link Tester</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets> 
+  </extension>
+</addon>
+
+<addon id="repository.slyguy" name="SlyGuy Repository" provider-name="SlyGuy" version="0.0.9">
+  <extension point="xbmc.addon.repository" name="SlyGuy Repository">
+    <dir>
+      <info compressed="false">https://slyguy.uk/.repo/repository.slyguy/addons.xml</info>
+      <checksum>https://slyguy.uk/.repo/repository.slyguy/addons.xml.md5</checksum>
+      <datadir zip="true">https://slyguy.uk/.repo/repository.slyguy/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en">Addons by SlyGuy (slyguy.uk)</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="repository.slyguy.globalsearch" name="SlyGuy Global Search+ Repository" provider-name="SlyGuy" version="0.0.1">
+  <extension point="xbmc.addon.repository" name="SlyGuy Global Search+ Repository">
+    <dir>
+      <info compressed="false">https://slyguy.uk/.repo/repository.slyguy.globalsearch/addons.xml</info>
+      <checksum>https://slyguy.uk/.repo/repository.slyguy.globalsearch/addons.xml.md5</checksum>
+      <datadir zip="true">https://slyguy.uk/.repo/repository.slyguy.globalsearch/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en">Global Search+ add-on by SlyGuy Repository</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="repository.slyguy.inputstreamhelper" name="SlyGuy InputStream Helper Wrapper Repository" provider-name="SlyGuy" version="0.0.1">
+  <extension point="xbmc.addon.repository" name="SlyGuy InputStream Helper Wrapper Repository">
+    <dir>
+      <info compressed="false">https://slyguy.uk/.repo/repository.slyguy.inputstreamhelper/addons.xml</info>
+      <checksum>https://slyguy.uk/.repo/repository.slyguy.inputstreamhelper/addons.xml.md5</checksum>
+      <datadir zip="true">https://slyguy.uk/.repo/repository.slyguy.inputstreamhelper/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en">InputStream Helper Wrapper add-on by SlyGuy Repository</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="repository.slyguy.youtube" name="SlyGuy YouTube Repository" provider-name="SlyGuy" version="0.0.5">
+  <extension point="xbmc.addon.repository" name="SlyGuy YouTube Repository">
+    <dir>
+      <info compressed="false">https://slyguy.uk/.repo/repository.slyguy.youtube/addons.xml</info>
+      <checksum>https://slyguy.uk/.repo/repository.slyguy.youtube/addons.xml.md5</checksum>
+      <datadir zip="true">https://slyguy.uk/.repo/repository.slyguy.youtube/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en">YouTube for Trailers add-on by SlyGuy repository</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="repository.xship" name="[B]xShip Repository[/B]" version="1.5.0" provider-name="xShip-Team">
+	<extension point="xbmc.addon.repository" name="xShip Repository">
+		<dir minversion="18.9.701" maxversion="21.9.700">
+            <info compressed="false">https://raw.githubusercontent.com/watchone/watchone.github.io/repo/addons.xml</info>
+			<checksum verify="sha256">https://raw.githubusercontent.com/watchone/watchone.github.io/repo/addons.xml.sha256</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/watchone/watchone.github.io/repo/</datadir>
+        </dir>
+	</extension>	
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de_DE">xShip Repository</summary>
+		<summary lang="en_GB">xShip Repository</summary>
+		<description lang="de_DE">Dies ist das offizielle xShip Repository.[CR]Bei der Bereitstellung einer neuen xShip Version, wird diese vor der Veröffentlichung auf Funktionalität geprüft. Sollten dennoch Probleme auftreten, benachrichtige bitte das offizielle xShip-Team via Telegram.</description>
+		<description lang="de_GB">This is the official xShip repository.[CR]When a new xShip version is released, it is tested for functionality before being released. If you still encounter problems, please notify the official xShip team via Telegram.</description>
+		<disclaimer lang="de_DE">Sie können dieses Video Addon gerne verwenden. Der bereitgestellte Inhalt der Webseiten steht in keinem Bezug zu xShip oder den Entwicklern! Weitere Informationen finden Sie auf unserer Github Seite.</disclaimer>
+		<disclaimer lang="en_GB">You are welcome to use this video addon. The content provided on the websites has no connection to xShip or the developers! For more information, see our Github page.</disclaimer>
+		<language>de en</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
+		<website>https://tiny.one/xship</website>
+		<source></source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<banner>resources/banner.png</banner>
+			<clearlogo>resources/clearlogo.png</clearlogo>
+			<screenshot></screenshot>
+		</assets>
+	</extension>
+</addon>
+
+<addon id="repository.xstream" name="xStream Repository" version="1.2.4" provider-name="xStream-Team">
+	<extension point="xbmc.addon.repository" name="xStream Repository">
+		<dir minversion="18.9.701" maxversion="21.9.700">
+            <info compressed="false">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/zips/addons.xml</info>
+			<checksum verify="sha256">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/zips/addons.xml.sha256</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/streamxstream/xStreamRepo/repo/zips/</datadir>
+        </dir>
+	</extension>	
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de_DE">xStream Repository</summary>
+		<summary lang="en_GB">xStream Repository</summary>
+		<description lang="de_DE">Dies ist das offizielle xStream Repository.[CR]Bei der Bereitstellung einer neuen xStream Version, wird diese vor der Veröffentlichung auf Funktionalität geprüft. Sollten dennoch Probleme auftreten benachrichtige bitte das offizielle xStream-Team via Github oder Chat.</description>
+		<description lang="de_GB">This is the official xStream repository.[CR]When a new xStream version is released, it is tested for functionality before being released. If you still encounter problems, please notify the official xStream team via Github or chat.</description>
+		<disclaimer lang="de_DE">Sie können dieses Video Addon gerne verwenden. Der bereitgestellte Inhalt der Webseiten steht in keinem Bezug zu xStream oder den Entwicklern! Weitere Informationen finden Sie in unserer Wiki und FaQ.</disclaimer>
+		<disclaimer lang="en_GB">You are welcome to use this video addon. The content provided on the websites has no connection to xStream or the developers! For more information, see our Wiki and FaQ.</disclaimer>
+		<language>de en</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
+		<website>https://streamxstream.github.io/xStreamRepoWeb/</website>
+		<source>https://github.com/streamxstream</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<banner>resources/banner.png</banner>
+			<clearlogo>resources/clearlogo.png</clearlogo>
+			<screenshot></screenshot>
+		</assets>
+	</extension>
+</addon>
+
+<addon id="script.globalsearch" name="Global Search+" provider-name="SlyGuy" version="99.1.2">
+  <requires>
+    <import addon="script.module.slyguy" version="0.85.12"/>
+    <import addon="repository.slyguy.globalsearch"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  <reuselanguageinvoker>true</reuselanguageinvoker>
+    <description lang="en">This addon can find any item in your video and music library.
+
+A fork of ronie's Global Search with search history and smarter result ordering
+
+Drop-in replacement as uses the same addon id and much higher version number to stop overwrite by original
+</description>
+      <platform>all</platform>
+      <license></license>
+      <assets>
+          <icon>icon.png</icon>
+          <fanart>fanart.jpg</fanart>
+      </assets>
+      <news>Add Clear History setting</news>
+  </extension>
+</addon>
+
+<addon id="script.module.inputstreamhelper" name="InputStream Helper (Slyguy Wrapper)" provider-name="SlyGuy" version="99.0.12">
+	<requires>
+		<import addon="repository.slyguy.inputstreamhelper"/>
+	</requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <description lang="en">Replaces Inputstream Helper with Slyguy DRM Helper</description>
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.161" provider-name="gujal">
+    <requires>
+        <!-- <import addon="xbmc.python" version="3.0.0" /> -->
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+        <import addon="plugin.video.youtube" optional="true" />
+        <import addon="script.module.python.twitch" optional="true" />
+        <import addon="plugin.googledrive" optional="true" />
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="lib/default.py" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en_GB">Resolve common video host URL's to be playable in XBMC/Kodi.</summary>
+        <summary lang="es_ES">Resolver enlaces a videos de sitios populares para poder reproducirlos en XBMC/Kodi.</summary>
+        <summary lang="hr_HR">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju.</summary>
+        <summary lang="el_GR">Επίλυση συνδέσμων κοινών εξυπηρετητών σε μορφή βίντεο ικανό για αναπαραγωγή στο XBMC/Kodi.</summary>
+        <description lang="en_GB">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
+        <description lang="el_GR">Επίλυση συνδέσμων κοινών εξυπηρετητών σε μορφή βίντεο ικανό για αναπαραγωγή στο XBMC/Kodi, απλοποίηση της ανάπτυξης των προσθέτων που χρησιμοποιούν πολλαπλούς εξυπηρετητές για υλικό βίντεο</description>
+        <description lang="hr_HR">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
+        <disclaimer lang="en_GB">This script only resolves video content from legitimate file lockers without prejudice. If this script is being used by 3rd parties to resolve content that you feel infringes upon your Intellectual Property then please take your complaints to the actual website or developer linking to such content and not here. This script in no way searches for any content whatsoever.</disclaimer>
+        <disclaimer lang="el_GR">Το ανωτέρο σενάριο το μόνο που κάνει είναι να επιλύει οπτικοακουστικό περιεχόμενο από νόμιμες πηγές χωρίς προκατάληψη. Εάν το ανωτέρο σενάριο χρησιμοποιηθεί από τρίτους ώστε να επιλύσει περιεχόμενο το οποίο σας προκαλεί αντίδραση ότι παραβιάζει την πνευματική σας ιδιοκτησία παρακαλώ μεταφέρετε τα παραπονά σας στον ιστότοπο τον οποίο βρίσκεται το εν λόγω περιεχόμενο η τον δημιουργό ο οποίος πραγματοποιεί την σύνδεση και όχι εδω. Το σενάριο αυτό ουδεμία περίπτωση πραγματοποιεί αναζήτηση περιεχομένου.</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="script.module.slyguy" name="SlyGuy Common" provider-name="SlyGuy" version="0.85.62">
+  <requires>
+    <import addon="slyguy.dependencies" version="0.0.20"/>
+    <import addon="repository.slyguy" version="0.0.9"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="login" />
+  <extension point="kodi.context.item">
+    <menu id="kodi.core.main">
+      <item library="default.py">
+        <label>$LOCALIZE[20410]</label>
+        <visible>!String.IsEmpty(ListItem.Trailer) + ![String.StartsWith(Container.FolderPath,plugin://) + String.Contains(Container.FolderPath,trailer)] + Integer.IsEqual(Window(10000).Property(_slyguy_trailer_context_menu),1)</visible>
+      </item>
+    </menu>
+  </extension>
+  <extension point="xbmc.python.module" library="resources/modules" />
+  <extension point="xbmc.addon.metadata">
+    <description lang="en">Common code, proxy and settings required by all Slyguy add-ons</description>
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news>Move userdata and bookmarks into settings!</news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="slyguy.binge" name="Binge (DEPRECATED)" provider-name="SlyGuy" version="0.5.6">
+  <requires>
+    <import addon="script.module.streamotion"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py" provides="video">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <description lang="en">This addon no longer works and has been deprecated. Open a github issue if you would like it to return</description>
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news>This addon no longer works and has been deprecated. Open a github issue if you would like it to return</news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="slyguy.dependencies" name="SlyGuy Dependencies" provider-name="SlyGuy" version="0.0.22">
+  <requires>
+    <import addon="repository.slyguy"/>
+  </requires>
+  <extension point="xbmc.python.module" library="resources/modules" />
+  <extension point="xbmc.addon.metadata">
+    <description lang="en">Dependencies required by all Slyguy add-ons</description>
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news>remove pymysql</news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 </addons>
