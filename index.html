@@ -91,6 +91,21 @@
     .hidden {
       display: none;
     }
+	    <script>
+        function validateEmail() {
+            let email = document.getElementById("email").value;
+            let invalidDomains = [    "spoofmail.de",  "spammail.com",    "mailinator.com",    "10minutemail.com",    "tempmail.com",  "disposablemail.com",    "fakeinbox.com",    "throwawaymail.com",    "guerrillamail.com",    "getairmail.com",    "mytrashmail.com",    "maildrop.cc",    "trashmail.com",    "tempmail.net",    "sharklasers.com",    "yopmail.com",    "mailcatch.com",    "spamgourmet.com"];
+            let domain = email.substring(email.lastIndexOf("@") + 1);
+
+            if (invalidDomains.includes(domain)) {
+                document.getElementById("result").innerHTML = "Fehlgeschlagen: Bitte keine Spam-Adressen verwenden!";
+                document.getElementById("result").style.color = "red";
+            } else {
+                document.getElementById("result").innerHTML = "Erfolgreich! Ihr Key: <a href='http://thunderv3.github.io/key.txt' target='_blank'>Hier abrufen</a>";
+                document.getElementById("result").style.color = "green";
+            }
+        }
+    </script>
   </style>
 </head>
 <body>
@@ -174,9 +189,7 @@
   </main>
   
   <footer>
-  <nav>
  <h2>Willkommen bei JayTv Plus</h2>
-  </nav>
   </footer>
 
   <!-- Besucherzähler -->
