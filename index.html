@@ -36,18 +36,34 @@
       background-color: #e6c200;
       padding: 10px;
       text-align: center;
+	  color: #000;
     }
-    /* Authentifizierungs-Container oben rechts */
-    #auth-container {
+    /* Container für das Dropdown-Authentifizierungsmenü */
+    #auth-dropdown {
       position: fixed;
       top: 10px;
       right: 10px;
+      z-index: 1100;
+      text-align: right;
+    }
+    /* Toggle-Button */
+    #authToggle {
+      background-color: #e6c200;
+      color: #000;
+      border: none;
+      padding: 8px 12px;
+      cursor: pointer;
+      font-size: 14px;
+      border-radius: 3px;
+    }
+    /* Authentifizierungsbereich – standardmäßig versteckt */
+    #auth-container {
       background: rgba(0, 0, 0, 0.8);
       padding: 15px;
       border-radius: 5px;
-      z-index: 1000;
       width: 250px;
       color: #e6c200;
+      margin-top: 5px;
     }
     #auth-container h2 {
       margin-top: 0;
@@ -87,29 +103,32 @@
     <a href="https://t.me/">JayTv Plus @Telegram</a>
   </nav>
 
-  <!-- Authentifizierungsbereich (oben rechts) -->
-  <div id="auth-container">
-    <div class="button-group">
-      <button id="loginTab">Einloggen</button>
-      <button id="registerTab">Registrieren</button>
-    </div>
-    <!-- Login-Formular: E-Mail & Code -->
-    <div id="loginForm">
-      <h2>Login</h2>
-      <label for="loginEmail">E-Mail-Adresse:</label>
-      <input type="email" id="loginEmail" required>
-      <label for="loginKey">Code:</label>
-      <input type="text" id="loginKey" required>
-      <button id="loginButton">Einloggen</button>
-    </div>
-    <!-- Registrierungs-Formular: E-Mail & Name -->
-    <div id="registerForm" class="hidden">
-      <h2>Registrierung</h2>
-      <label for="registerEmail">E-Mail-Adresse:</label>
-      <input type="email" id="registerEmail" required>
-      <label for="registerName">Name:</label>
-      <input type="text" id="registerName" required>
-      <button id="registerButton">Registrieren</button>
+  <!-- Dropdown-Authentifizierungsmenü -->
+  <div id="auth-dropdown">
+    <button id="authToggle">Login / Registrieren</button>
+    <div id="auth-container" class="hidden">
+      <div class="button-group">
+        <button id="loginTab">Einloggen</button>
+        <button id="registerTab">Registrieren</button>
+      </div>
+      <!-- Login-Formular: E-Mail & Code -->
+      <div id="loginForm">
+        <h2>Login</h2>
+        <label for="loginEmail">E-Mail-Adresse:</label>
+        <input type="email" id="loginEmail" required>
+        <label for="loginKey">Code:</label>
+        <input type="text" id="loginKey" required>
+        <button id="loginButton">Einloggen</button>
+      </div>
+      <!-- Registrierungs-Formular: E-Mail & Name -->
+      <div id="registerForm" class="hidden">
+        <h2>Registrierung</h2>
+        <label for="registerEmail">E-Mail-Adresse:</label>
+        <input type="email" id="registerEmail" required>
+        <label for="registerName">Name:</label>
+        <input type="text" id="registerName" required>
+        <button id="registerButton">Registrieren</button>
+      </div>
     </div>
   </div>
 
@@ -122,9 +141,9 @@
       <li>Telegram: <a target="_blank" href="https://t.me/">JayTv Plus @Telegram</a></li>
     </ul>
 	
-	  <nav>
-      <nav>
-   </nav>
+
+  <nav>
+ 
   </nav>
     <table>
       <tr>
@@ -153,46 +172,49 @@
       </tr>
     </table>
   </main>
-<td>
-  <footer>
-    <p>© JayTv Plus</p>
-  </footer>
-</td>
-  <!-- Besucherzähler -->
-
   
+  <footer>
+  <nav>
+ <h2>Willkommen bei JayTv Plus</h2>
+  </nav>
+  </footer>
 
+  <!-- Besucherzähler -->
   <table>
     <tr>
       <td>
-    <a href="http://www.disclaimer.de/disclaimer.htm?farbe=FFFFFF/000000/000000/000000">
-      <img src="http://www.disclaimer.de/images/d_gold.gif" width="84" height="20" border="0" alt="disclaimer">
-    </a>
-	</td>
+        <a href="http://www.disclaimer.de/disclaimer.htm?farbe=FFFFFF/000000/000000/000000">
+          <img src="http://www.disclaimer.de/images/d_gold.gif" width="84" height="20" border="0" alt="disclaimer">
+        </a>
+      </td>
     </tr>
   </table>
- 
- 
- 
 
-  <!-- JavaScript: Authentifizierung -->
+  <!-- JavaScript: Authentifizierung und Dropdown-Logik -->
   <script>
     document.addEventListener("DOMContentLoaded", () => {
+      // Toggle des Dropdown-Menüs
+      const authToggle = document.getElementById("authToggle");
+      const authContainer = document.getElementById("auth-container");
+      authToggle.addEventListener("click", () => {
+        authContainer.classList.toggle("hidden");
+      });
+      
+      // Wechsel zwischen Login und Registrierung
       const loginTab = document.getElementById("loginTab");
       const registerTab = document.getElementById("registerTab");
       const loginForm = document.getElementById("loginForm");
       const registerForm = document.getElementById("registerForm");
-
+      
       loginTab.addEventListener("click", () => {
         loginForm.classList.remove("hidden");
         registerForm.classList.add("hidden");
       });
-
       registerTab.addEventListener("click", () => {
         registerForm.classList.remove("hidden");
         loginForm.classList.add("hidden");
       });
-
+      
       document.getElementById("loginButton").addEventListener("click", loginUser);
       document.getElementById("registerButton").addEventListener("click", registerUser);
     });
