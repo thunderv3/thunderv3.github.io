@@ -1,6 +1,0 @@
-name="MCJayTV" 
-url="https://www.dropbox.com/scl/fi/dqntxjav2gohc81urk2f0/MCJayTV-theme.zip?rlkey=huoqn9mnkuej9b72s1i6n9xbx&st=kf1scjcv&dl=1" 
-icon="https://thunderv3.github.io/Jaytvplus/mcjaytv.jpg" 
-fanart="https://thunderv3.github.io/Jaytvplus/mcjaytv.jpg" 
-adult="no" 
-description="Thunderv3"
