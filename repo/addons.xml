@@ -1,5 +1,5 @@
 <addons>
-<addon id="repository.thunderv3" name="Thunderv3 Repo" provider-name="Thunderv3" version="4.2">
+<addon id="repository.thunderv3" name="Thunderv3 Repo" provider-name="Thunderv3" version="4.5">
 	<extension point="xbmc.addon.repository" name="Thunderv3 Repo">
 		<dir minversion="18.1.0" maxversion="22.9.0">
            <info compressed="false">https://thunderv3.github.io/repo/addons.xml</info>
@@ -479,4 +479,111 @@ Drop-in replacement as uses the same addon id and much higher version number to 
   </extension>
 </addon>
 
+<addon id="plugin.video.svod" name="xStalkerVoD" version="1.4.0" provider-name="xS-Team">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.requests" version="2.25.1" />
+		<import addon="script.module.pydevd" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon_entry.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service_entry.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<reuselanguageinvoker>true</reuselanguageinvoker>
+		<platform>all</platform>
+		<summary lang="de_DE">Stalker VOD Client</summary>
+		<description lang="de_DE">Stalker Client für TV und VoD</description>
+		<license>GPL-3.0-or-later</license>
+		<language>de_DE</language>
+		<assets>
+			<icon>resources/media/icon.png</icon>
+			<screenshot>resources/screenshots/screenshot_1.png</screenshot><screenshot>resources/screenshots/screenshot_2.png</screenshot><screenshot>resources/screenshots/screenshot_3.png</screenshot><screenshot>resources/screenshots/screenshot_4.png</screenshot><screenshot>resources/screenshots/screenshot_5.png</screenshot><screenshot>resources/screenshots/screenshot_6.png</screenshot></assets>
+		<news>
+v1.0.0  (2026-01-11)
+- Release based on Stalker VoD. Added optimizations for performance and stability. Caching, 5 Portals, Favorites
+		</news>
+	</extension>
+</addon>
+
+<addon id="plugin.video.xstream" name="xStream" version="4.3.0.6" provider-name="xStream-Team">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests"/>
+		<import addon="script.module.resolveurl" version="5.1.173"/>
+		<import addon="script.module.six" version="1.11.0"/>
+		<import addon="repository.resolveurl" optional="true"/>
+		<import addon="script.module.inputstreamhelper" version="0.3.3" optional="true"/>
+		<import addon="script.module.pydevd" optional="true" />
+		<import addon="script.module.web-pdb" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de">xStream: Das Original</summary>
+		<summary lang="en_GB">xStream: The Original</summary>
+		<description lang="de">xStream ist ein Video-Addon für Kodi. xStream dient als Suchmaschine für Filme und Serien auf verschiedenen Webseiten.</description>
+		<description lang="en_GB">xStream is a video add-on for Kodi. xStream serves as a search engine for films and series on various websites.</description>
+		<disclaimer lang="de">Sie können dieses Video Addon gerne verwenden. Der bereitgestellte Inhalt der Webseiten steht in keinem Bezug zu xStream oder den Entwicklern! Weitere Informationen finden Sie in unserer Wiki und FaQ.</disclaimer>
+		<disclaimer lang="en_GB">You are welcome to use this video addon. The content provided on the websites has no connection to xStream or the developers! For more information, see our Wiki and FaQ.</disclaimer>
+		<language>de en</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
+		<website>https://streamxstream.github.io/xStreamRepoWeb/</website>
+		<source>https://github.com/streamxstream</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<banner>resources/banner.png</banner>
+			<clearlogo>resources/clearlogo.png</clearlogo>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+		</assets>
+	</extension>
+</addon>	
+
+<addon id="repository.heptamers.stuff" name="Heptamers Stuff" version="1.0.0" provider-name="Heptamer">
+    <extension point="xbmc.addon.repository" name="Heptamers Stuff">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Heptamer/heps_stuff/master/repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Heptamer/heps_stuff/master/repo/addons.xml.sha256</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Heptamer/heps_stuff/master/repo/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="de">Heptamers Stuff</summary>
+        <summary lang="en">Heptamers Stuff</summary>
+        <description lang="de">Kodi Add-on Repository</description>
+        <description lang="en">Kodi Add-on Repository</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="repository.kodi.media" name="Kodi Media Repository" version="1.0.0" provider-name="mr-evil1">
+    <extension point="xbmc.addon.repository">
+        <dir>
+            <info>https://mr-evil1.github.io/kodi-media-repo/addons.xml</info>
+            <checksum>https://mr-evil1.github.io/kodi-media-repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://mr-evil1.github.io/kodi-media-repo/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kodi Media Repository</summary>
+        <description>Repository von Kodi Media Addons und Abhängigkeiten.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>kodi-media.jpg</icon>
+            <fanart>kodi-media.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+	
 </addons>
