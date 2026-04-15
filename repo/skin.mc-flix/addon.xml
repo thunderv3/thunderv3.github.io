@@ -5,6 +5,7 @@
 		<import addon="xbmc.gui" version="5.17.0"/>
 		<import addon="script.skinshortcuts" version="1"/>
 		<import addon="resource.images.studios.white" version="0.0.28"/>
+		<import addon="script.skinshortcuts-flix" version="2.0.3"/>
 		<import addon="plugin.program.simple.favourites" optional="true"/>
 		</requires>
 	<extension
