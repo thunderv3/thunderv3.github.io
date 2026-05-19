@@ -692,5 +692,142 @@ v1.0.0  (2026-01-11)
     </assets>
   </extension>
 </addon>
-	
+
+<addon id="plugin.video.voodoo-tv" name="Voodoo- [COLOR red]TV[/COLOR]" version="2.0.5" provider-name="V-Team">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+	<import addon="script.module.livestreamer" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>V-[COLOR red]TV[/COLOR]</summary>
+    <description>Musik und Videostreaming Add-On fuer Voodoo</description>
+	<disclaimer>Benutzung auf eigene Gefahr</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="skin.rdm" name="rdm" version="7.0.4-b1" provider-name="Randall">
+	<requires>
+		<import addon="xbmc.gui" version="5.17.0" />
+		<import addon="resource.images.studios.white" version="0.0.25" />
+		
+		<import addon="script.toolbox" version="2.0.0" />
+		<import addon="script.image.resource.select" version="3.0.2" />
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="true" effectslowdown="1.75">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Mimic-LR</summary>
+		<description lang="en_GB">Mimic reborn</description>
+		<platform>all</platform>
+		<license>CC BY-NC-SA 4.0</license>
+		<forum>http://forum.kodi.tv/forumdisplay.php?fid=218</forum>
+		<website></website>
+		<email></email>
+		<source>https://github.com/randallspicher/skin.mimic.lr/tree/Matrix</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.png</fanart>
+			<screenshot>resources/screenshot-01.png</screenshot>
+			<screenshot>resources/screenshot-02.png</screenshot>
+			<screenshot>resources/screenshot-03.png</screenshot>
+			<screenshot>resources/screenshot-04.png</screenshot>
+			<screenshot>resources/screenshot-05.png</screenshot>
+			<screenshot>resources/screenshot-06.png</screenshot>
+			<screenshot>resources/screenshot-07.png</screenshot>
+			<screenshot>resources/screenshot-08.png</screenshot>
+		</assets>
+		<news></news>
+	</extension>
+</addon>
+
+<addon id="plugin.executable.youtubeapi"
+       name="Patch de Correcao Youtube"
+       version="20.3.0nexus"
+       provider-name="Kodish Team">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Patch de Correcao Youtube</summary>
+    <description></description>
+    <platform>all</platform>
+	<assets>
+    <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.jetproxy" version="1.0.6" name="JetProxy" provider-name="t4ils">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.routing"/>
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.service" library="service.py" />
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">JetProxy</summary>
+  <description lang="en_GB">JetProxy</description>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>  
+  </assets>
+</extension>
+</addon>
+
+<addon id="plugin.video.wm2026" name="WM 2026" version="1.0.0" provider-name="SGK, AI">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+        <import addon="inputstream.adaptive" version="20.3.5"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">2026 FIFA World Cup Livestreams + Schedule</summary>
+        <summary lang="de_DE">FIFA WM 2026 Livestreams + Spielplan</summary>
+        <description lang="en_GB">Small Kodi Add-on for the 2026 FIFA World Cup.[CR]Features:[CR]- 2026 World Cup Schedule[CR]- ARD + ZDF Livestreams[CR]- Direct Match Launch[CR]- Live Indicators[CR]- Filter by Matchday & Knockout Stage[CR]Uses publicly available streams from ARD and ZDF.</description>
+        <description lang="de_DE">Kleines Kodi-Addon für die FIFA Fußball-Weltmeisterschaft 2026.[CR]Funktionen:[CR]- Spielplan der WM 2026[CR]- ARD + ZDF Livestreams[CR]- Direkter Spielstart[CR]- Live-Markierungen[CR]- Filter nach Spieltagen & KO-Phase[CR]Verwendet öffentlich verfügbare Streams von ARD und ZDF.</description>
+        <platform>all</platform>
+        <license>CC BY-NC-SA 4.0</license>
+        <forum></forum>
+        <website></website>
+        <source></source>
+        <email></email>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="script.module.urlresolver" name="URLResolver" version="4.0.60~nighthly7" provider-name="Resolver Team">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.python.twitch" optional="true" />
+		<import addon="script.module.cryptopy" version="1.2.6" optional="true" />
+		<import addon="script.module.pydevd-pycharm" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.python.pluginsource" library="lib/default.py" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="de">URLResolver wird für die Stream Wiedergabe benötigt</summary>
+		<description lang="de">Empfängt viele Video URL's, die in XBMC/Kodi abspielbar sind</description>
+	</extension>
+</addon>
+
 </addons>
