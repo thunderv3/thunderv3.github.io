@@ -519,5 +519,41 @@ NOTE: Does not allow browsing YouTube content. Simply for playback.</description
     </assets>
   </extension>
 </addon>	
+
+<addon
+  id="skin.gold2"
+  version="1.0.2"
+  name=" Gold2"
+  provider-name="">
+    <requires>
+        <import addon="xbmc.gui" version="5.17.0"/>
+       
+    </requires>
+    <extension
+      point="xbmc.gui.skin"
+      debugging="true"
+      effectslowdown="1.75">
+        <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+    </extension>  
+
+    <extension point="xbmc.addon.metadata">
+       <summary lang="de_DE"></summary>
+        <platform>all</platform>
+        <license>CC BY-NC-SA 4.0</license>
+        <forum>http://forum.kodi.tv/forumdisplay.php?fid=218</forum>
+        <website></website>
+        <email></email>
+        <source></source>
+        <assets>
+            
+            <fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot01.jpg</screenshot>
+			<screenshot>resources/screenshot02.jpg</screenshot>
+			<screenshot>resources/screenshot03.jpg</screenshot>
+        </assets>
+		<size>12204540</size>
+    </extension>
+	
+</addon>
 	
 </addons>
